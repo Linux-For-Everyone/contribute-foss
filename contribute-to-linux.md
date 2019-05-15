@@ -149,6 +149,7 @@ In the meantime, I've collected a few "Get Involved" links desktop Linux distros
 -   [elementary OS](https://elementary.io/get-involved#support)
 -   [Fedora](https://fedoraproject.org/wiki/Join)
 -   [Linux Mint](https://linuxmint.com/getinvolved.php)
+-   [Lubuntu](https://lubuntu.me/links/)
 -   [Manjaro](https://manjaro.github.io/homepage/public/get-involved/)
 -   [MX Linux](https://mxlinux.org/donate/)
 -   [openSUSE](https://en.opensuse.org/Portal:How_to_participate)
@@ -159,6 +160,7 @@ In the meantime, I've collected a few "Get Involved" links desktop Linux distros
 -   [Xubuntu](https://xubuntu.org/contribute/)
 -   [GNOME](https://www.gnome.org/get-involved/)
 -   [KDE ](https://community.kde.org/Get_Involved)
+-   [LXQt](https://github.com/lxqt/lxqt/blob/master/CONTRIBUTING.md)
 -   [Xfce ](https://www.xfce.org/getinvolved)
 
 Thanks to Alan Pope, Dustin Krysak, and everyone in the community who
