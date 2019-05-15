@@ -6,4 +6,4 @@ The article was just the beginning, however. The end goal is to create a living 
 
 The Wiki should include exhaustive links to various "Get Involved" pages of all Linux distributions and open source software projects. 
 
-I have no experience creating a Wiki, and this is my first GitHub project, so any and all suggestions and feedback is welcome. 
+I have no experience creating a Wiki, and this is my first GitHub project, so any and all suggestions and feedback are welcome.  
