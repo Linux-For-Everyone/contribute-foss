@@ -1,4 +1,4 @@
-# Contribute Foss
+# Contributing To Foss
 
 1. [Background](#Background)
 2. [Identifying How You Can Help](#Identifying-How-You-Can-Help)
@@ -179,7 +179,7 @@ In the meantime, I've collected a few "Get Involved" links desktop Linux distros
 - [Pop!_OS](https://system76.com/pop/community)
 - [Solus](https://getsol.us/articles/contributing/getting-involved/en/)
 - [Ubuntu](https://wiki.ubuntu.com/ContributeToUbuntu)
-- [Ubuntu Budgie](https://ubuntubudgie.org/opportunities)
+- [Ubuntu Budgie](https://discourse.ubuntubudgie.org/c/Get-Involved?status=open)
 - [Xubuntu](https://xubuntu.org/contribute/)
 - [GNOME](https://www.gnome.org/get-involved/)
 - [KDE](https://community.kde.org/Get_Involved)
