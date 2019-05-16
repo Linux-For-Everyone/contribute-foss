@@ -138,6 +138,7 @@ You may think a few bucks doesn't make a difference. It does when that's multipl
 
 More than 2000 words and we've just scratched the surface. That's why this needs to be turned into a living, breathing Wiki page. Please watch [my Twitter](http://twitter.com/killyourfm) for developments on that front.
 
+
 In the meantime, I've collected a few "Get Involved" links desktop Linux distros and desktop environments. This is obviously not comprehensive, but hopefully can be your gateway to making a difference. And hey, many of these pages probably need updates, too. You can even help with *that*!
 
 (Distro teams: if you don't have one of these pages, you need one.)
@@ -162,6 +163,8 @@ In the meantime, I've collected a few "Get Involved" links desktop Linux distros
 -   [KDE ](https://community.kde.org/Get_Involved)
 -   [LXQt](https://github.com/lxqt/lxqt/blob/master/CONTRIBUTING.md)
 -   [Xfce ](https://www.xfce.org/getinvolved)
+=======
+
 
 Thanks to Alan Pope, Dustin Krysak, and everyone in the community who
 helped make this article a reality. This is only the seed though. Time
