@@ -21,7 +21,7 @@ The article was just the beginning, however. The end goal was to create a living
 
 The Wiki will include exhaustive links to various "Get Involved" pages of all Linux distributions and open source software projects of all sizes.
 
-This is my first Github project and first time embarking on such an endeavor, so any and all suggestions and feedback are welcome. 
+This is my first Github project (it's *our* project now) and first time embarking on such an endeavor, so any and all suggestions and feedback are welcome. 
 
 ## Introduction
 
@@ -154,7 +154,7 @@ We're collecting all the "Get Involved" links we can find for desktop Linux dist
 
 (Distro and FOSS software teams: if you don't have one of these pages, you need one.)
 
-#Linux Distributions
+### Linux Distributions
 
 - [Arch](https://wiki.archlinux.org/index.php/getting_involved)
 - [Debian](https://www.debian.org/intro/help)
@@ -171,7 +171,7 @@ We're collecting all the "Get Involved" links we can find for desktop Linux dist
 - [Ubuntu Budgie](https://discourse.ubuntubudgie.org/c/Get-Involved?status=open)
 - [Xubuntu](https://xubuntu.org/contribute/)
 
-#Desktop Environments
+### Desktop Environments
 
 - [GNOME](https://www.gnome.org/get-involved/)
 - [KDE](https://community.kde.org/Get_Involved)
