@@ -1,4 +1,4 @@
-# Contributing To The Linux And FOSS Communituy 
+# Contributing To The Linux And FOSS Community 
 
 1. [Background](#Background)
 2. [Identifying How You Can Help](#Identifying-How-You-Can-Help)
