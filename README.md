@@ -64,7 +64,7 @@ Before we get into it, Ubuntu Budgie's Krysak offers up some great advice for fo
 
 > "I think people have a bad habit of looking at what they cannot do versus what they can do. Because everyone just assumes that programming is what you need to do to be a contributor. Is having more people writing code a good thing? Absolutely, but so many other things either bring value to the project or free up the programming people to do other things. A great first step is look at what your own skills are at your day job. Look for a commonality. What's a problem you solved in your day job? Any accomplishments that could be replicated elsewhere? Are there any skills that you are learning that you want to refine within the open source software world?"
 
-### **Marketing And Advocacy**
+### Marketing And Advocacy
 
 There's ample room for improvement with regards to Desktop Linux marketing. In my "[Linux MarketingSucks](http://www.forbes.com/sites/jasonevangelho/2019/05/07/linux-marketing-sucks-a-rant-about-distros-messaging-and-that-sexy-windows-terminal-trailer/)" article I highlighted a few successes and failures in that department. That's why this category shoots straight to the top of this list.
 
@@ -93,7 +93,7 @@ Huh, what do ya know? That experience is partially what inspired this article.
 
 Seriously, reach out to them because you never know. . .
 
-### **Filing Bug Reports**
+### Filing Bug Reports
 
 "There are times we do not even know about a bug or annoyance simply because we never hit that scenario, or had a report filed," Krysak tells me.
 
@@ -107,7 +107,7 @@ By now you're probably realizing they all operate differently with regards to bu
 
 Believe me, they'll appreciate the effort.
 
-### **Documentation**
+### Documentation
 
 "Documentation always has a gap when written from a single persons point of view," says Ubuntu Budgie's Krysak. "So having a second, or even third person review and add additional detail to documentation is invaluable."
 
@@ -125,7 +125,7 @@ Here's another important consideration:
 
 --- jdf the tech (@jdfthetech) [May 10, 2019](https://twitter.com/jdfthetech/status/1126878047888478208?ref_src=twsrc%5Etfw)
 
-### **Community Questions & Support**
+### Community Questions & Support
 
 If you're a veteran user of certain open source software, a command line guru, or just have a ton of experience using a particular distro, there are everyday users who can benefit from your knowledge.
 
@@ -133,7 +133,7 @@ This intersects with bug reporting in the sense that we often *assume* things ar
 
 On a daily basis I field questions from people on Twitter I'm not equipped to answer. Questions that yielded no results when scouring the web for an answer. Sometimes even a simple retweet brings more visibility to that question, and it often gets answered by multiple people! So I'm certain the need exists, and I'm equally certain many of you have the chops and the capability to remove someone's headache and turn it into a victory.
 
-### **Translations**
+### Translations
 
 "We always need more translators in Ubuntu," Canonical's Alan Pope says. "Much of it happens in the upstream projects, but there's also a load of projects in [launchpad](https://translations.launchpad.net/ubuntu/eoan/+translations) which can do with help. Focus is Eoan (19.10), and some languages have few (or no) contributors. [http://bit.ly/2HdUkPW."](https://t.co/pknikQW90k)
 
@@ -143,7 +143,7 @@ OpenSUSE also needs help with finalizing -- and in some cases even starting -- t
 
 I've just scratched the surface here, and there's no shortage of ways to contribute in this department.
 
-### **Get Creative: Art, Photography And Beyond**
+### Get Creative: Art, Photography And Beyond
 
 > I'm a keen photographer and have submitted photos to [@fedora](https://twitter.com/fedora?ref_src=twsrc%5Etfw) wallpaper. Managed to get on accepted into F26. Huge satisfaction!
 
@@ -153,7 +153,7 @@ Someone, somewhere contributed to that awesome collection of desktop background 
 
 If you're a creative type -- whether that's music, art, photography, video production, 3D graphics, programming, or even if you have a cool idea in your head but lack the technical chops to execute it -- don't hesitate to mingle with the community and work on something together.
 
-### **Donations**
+### Donations
 
 Perhaps the most obvious -- and for some the easiest -- way to contribute is with your cash. Does your favorite distro have a Patreon? Do they have a donation page? Do they have an independent App Center (ala [elementary OS](http://www.forbes.com/sites/jasonevangelho/2019/01/29/linux-distro-spotlight-what-i-love-about-elementary-os/)) where developers are selling their software? These all make a substantial difference in the livelihood of those developers, the sustainability of the distro and the rate at which improvements and features are added.
 
