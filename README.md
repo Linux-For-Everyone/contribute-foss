@@ -8,7 +8,7 @@
    4. [Documentation](#Documentation)
    5. [Community Questions & Support](#Community-Questions-&-Support)
    6. [Translations](#Translations)
-   7. [Get Creative: Art Photography And Beyond](#Get-Creative:-Art,-Photography-And-Beyond)
+   7. [Art, Photography And Beyond](#Get-Creative:-Art,-Photography-And-Beyond)
    8. [Donations](#Donations)
 3. [Awesome Links: Get Involved](#Awesome-Links:-Get-Involved!)
 
@@ -40,7 +40,7 @@ So below, I'm going to outline a bunch of things we can do to make an impact. To
 Let me begin with some inspiration, especially for those of you with a knack for answering community questions. It's an awesome origin story from someone many of you are familiar with: Canonical's [Alan
 Pope](http://twitter.com/popey) aka Popey.
 
-I got involved in [#ubuntu](https://answers.launchpad.net/~popey/+commentedquestions?batch=75&direction=backwards&start=825)
+I got [involved in #ubuntu](https://answers.launchpad.net/~popey/+commentedquestions?batch=75&direction=backwards&start=825)
 in ~2006 by answering hundreds of support questions. Not a developer. It was a low-impact (to me) way to contribute. Got recognition and eventually a job. [https://t.co/gHwLrtPyrH ](https://t.co/gHwLrtPyrH)---
 Alan Pope (@popey) [May 9,2019](https://twitter.com/popey/status/1126403796660301824?ref_src=twsrc%5Etfw)
 
