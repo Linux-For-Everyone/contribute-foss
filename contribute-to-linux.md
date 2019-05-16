@@ -138,30 +138,6 @@ You may think a few bucks doesn't make a difference. It does when that's multipl
 
 More than 2000 words and we've just scratched the surface. That's why this needs to be turned into a living, breathing Wiki page. Please watch [my Twitter](http://twitter.com/killyourfm) for developments on that front.
 
-In the meantime, I've collected a few "Get Involved" links desktop Linux distros and desktop environments. This is obviously not comprehensive, but hopefully can be your gateway to making a difference. And hey, many of these pages probably need updates, too. You can even help with *that*!
-
-(Distro teams: if you don't have one of these pages, you need one.)
-
-**Links: Get Involved With. . .**
-
--   [Arch](https://wiki.archlinux.org/index.php/getting_involved)
--   [Debian](https://www.debian.org/intro/help)
--   [elementary OS](https://elementary.io/get-involved#support)
--   [Fedora](https://fedoraproject.org/wiki/Join)
--   [Linux Mint](https://linuxmint.com/getinvolved.php)
--   [Lubuntu](https://lubuntu.me/links/)
--   [Manjaro](https://manjaro.github.io/homepage/public/get-involved/)
--   [MX Linux](https://mxlinux.org/donate/)
--   [openSUSE](https://en.opensuse.org/Portal:How_to_participate)
--   [Pop!_OS](https://system76.com/pop/community)
--   [Solus](https://getsol.us/articles/contributing/getting-involved/en/)
--   [Ubuntu](https://wiki.ubuntu.com/ContributeToUbuntu)
--   [Ubuntu Budgie](https://ubuntubudgie.org/opportunities)
--   [Xubuntu](https://xubuntu.org/contribute/)
--   [GNOME](https://www.gnome.org/get-involved/)
--   [KDE ](https://community.kde.org/Get_Involved)
--   [LXQt](https://github.com/lxqt/lxqt/blob/master/CONTRIBUTING.md)
--   [Xfce ](https://www.xfce.org/getinvolved)
 
 Thanks to Alan Pope, Dustin Krysak, and everyone in the community who
 helped make this article a reality. This is only the seed though. Time
