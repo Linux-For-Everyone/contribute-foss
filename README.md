@@ -8,9 +8,9 @@
    4. [Documentation](#Documentation)
    5. [Community Questions & Support](#Community-Questions-&-Support)
    6. [Translations](#Translations)
-   7. [Get Creative: Art, Photography And Beyond](#Get-Creative:-Art,-Photography-And-Beyond)
+   7. [Get Creative: Art Photography And Beyond](#Get-Creative:-Art,-Photography-And-Beyond)
    8. [Donations](#Donations)
-3. [Awesome Links: Get Involved!](#Awesome-Links:-Get-Involved!)
+3. [Awesome Links: Get Involved](#Awesome-Links:-Get-Involved!)
 
 ## Background
 
