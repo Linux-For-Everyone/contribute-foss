@@ -1,4 +1,4 @@
-# Contributing To Foss
+# Contributing To The Linux And FOSS Communituy 
 
 1. [Background](#Background)
 2. [Identifying How You Can Help](#Identifying-How-You-Can-Help)
@@ -11,34 +11,30 @@
    7. [Art, Photography And Beyond](#Get-Creative:-Art,-Photography-And-Beyond)
    8. [Donations](#Donations)
 3. [Awesome Links: Get Involved](#Awesome-Links:-Get-Involved!)
-
+   1. [Linux Distributions](#Linux-Distributions)
+   2. [Desktop Environments](#Desktop-Environments)
 ## Background
 
 This project was inspired in part by Ubuntu Budgie system administrator Dustin Krysak, and began as a Forbes article entitled "[8 Ways To Contribute To The Desktop Linux Community, Without Knowing A Single Line Of Code.](https://www.forbes.com/sites/jasonevangelho/2019/05/13/8-ways-contribute-desktop-linux-community-marketing-documentation-art-testing/)"
 
-The article was just the beginning, however. The end goal is to create a living Wiki page with detailed ideas on how to contribute to the Linux and open source software community, regardless of skillset or experience.
+The article was just the beginning, however. The end goal was to create a living Wiki page with detailed ideas on how to contribute to the Linux and open source software community, regardless of skillset or experience.
 
-The Wiki should include exhaustive links to various "Get Involved" pages of all Linux distributions and open source software projects.
+The Wiki will include exhaustive links to various "Get Involved" pages of all Linux distributions and open source software projects of all sizes.
 
-I have no experience creating a Wiki, and this is my first GitHub project, so any and all suggestions and feedback are welcome.  
+This is my first Github project and first time embarking on such an endeavor, so any and all suggestions and feedback are welcome. 
 
 ## Introduction
 
-Have you ever felt the urge to give back to the Linux community? To help out the developers who spend a significant amount of their (typically unpaid) free time creating the distro, software, or desktop environment that you enjoy on a daily basis? If you're anything like me, you may have reservations about this. Maybe you're not some technically savvy power user, maybe you have zero programming or coding skills. Maybe you
-just have no clue where to start. That's exactly the predicament I found myself in, so I started asking questions.
+Have you ever felt the urge to give back to the Linux community? To help out the developers who spend a significant amount of their free time creating the distro, software, or desktop environment that you enjoy on a daily basis? If you're anything like me, you may have reservations about this. Maybe you're not some technically savvy power user, maybe you have zero programming or coding skills. Maybe you just have no clue where to start. That's exactly the predicament I found myself in, so I started asking questions.
 
 I spoke extensively with [Dustin Krysak](http://twitter.com/bashfulrobot), a system administrator on the
-[Ubuntu Budgie](https://ubuntubudgie.org/) team, and tons of other people chimed in with helpful suggestions. Two dominant themes emerged from these conversations. First, there are numerous ways to make a
-tangible difference even if you can't write a single line of code. Second, they're starving for help.
+[Ubuntu Budgie](https://ubuntubudgie.org/) team, and tons of other people chimed in with helpful suggestions. Two dominant themes emerged from these conversations. First, there are numerous ways to make a tangible difference even if you can't write a single line of code. Second, they're starving for help.
 
-> "Programming is the carpenter, but you still need the architects, designers, project managers (quite literally), permit people - to make a construction job come together,"
+> "Programming is the carpenter, but you still need the architects, designers, project managers (quite literally), permit people - to make a construction job come together," Krysak says.
 
-Krysak says.
+Below we've listed several ideas to spark your imaginations. To help make a difference. To bring more visibility to your favorite projects and improve them for everyone. Then in the [Awesome Links: Get Involved](#Awesome-Links:-Get-Involved!) section you'll find an ever-growing list of links leading you directly to the portal, web page, or contact info you'll need to get started. 
 
-So below, I'm going to outline a bunch of things we can do to make an impact. To bring more visibility to your favorite projects and improve them for everyone.
-
-Let me begin with some inspiration, especially for those of you with a knack for answering community questions. It's an awesome origin story from someone many of you are familiar with: Canonical's [Alan
-Pope](http://twitter.com/popey) aka Popey.
+Let's begin with some words of inspiration, especially for those of you with a knack for answering community questions. It's an awesome origin story from someone many of you are familiar with: Canonical's [Alan Pope](http://twitter.com/popey) aka Popey.
 
 I got [involved in #ubuntu](https://answers.launchpad.net/~popey/+commentedquestions?batch=75&direction=backwards&start=825)
 in ~2006 by answering hundreds of support questions. Not a developer. It was a low-impact (to me) way to contribute. Got recognition and eventually a job. [https://t.co/gHwLrtPyrH ](https://t.co/gHwLrtPyrH)---
@@ -48,27 +44,23 @@ You never know who's watching. . .
 
 ### Limitations
 
-Doing the research for this article, I discovered that every distro does things a little differently. I can help you generate some ideas for *how* to contribute, but finding *where* to get started may require some
-independent sleuthing on your part. Each project has minor to major deviations in how they do things, whether that's documentation, bug reporting, submitting artwork or helping with translation.
+[Consider Removing] 
+Doing the research for the original article, I discovered that every distro does things a little differently. I can help you generate some ideas for *how* to contribute, but finding *where* to get started may require some independent sleuthing on your part. Each project has minor to major deviations in how they do things, whether that's documentation, bug reporting, submitting artwork or helping with translation.
 
 My general advice: if something on this page sparks your imagination, visit your favorite project's website and look for "How To Contribute" or "Get Involved" links (I've included a few near the end of this article). Failing that, track down their contact information, jump into an IRC or Telegram chat and contact them
 directly.
 
 My second piece of advice: I can guarantee that no matter your skillset, you *can* make a difference. If you have the time and the drive, do it!
 
-Along those lines, I plan to take the basic information from this article and turn it into a Wiki document that anyone can edit. Ultimately the goal is to create a one-stop destination for anyone looking to contribute to all the wonderful open source software and distro projects out there. [Watch my Twitter](http://twitter.com/killyourfm) for developments on that front.
-
 ## Identifying How You Can Help
 
-Before we get into it, Ubuntu Budgie's Krysak offers up some great advice for folks struggling to identify where or how they can help:
+Ubuntu Budgie's Krysak offers up some great advice for folks struggling to identify where or how they can help:
 
 > "I think people have a bad habit of looking at what they cannot do versus what they can do. Because everyone just assumes that programming is what you need to do to be a contributor. Is having more people writing code a good thing? Absolutely, but so many other things either bring value to the project or free up the programming people to do other things. A great first step is look at what your own skills are at your day job. Look for a commonality. What's a problem you solved in your day job? Any accomplishments that could be replicated elsewhere? Are there any skills that you are learning that you want to refine within the open source software world?"
 
 ### Marketing And Advocacy
 
-There's ample room for improvement with regards to Desktop Linux marketing. In my "[Linux MarketingSucks](http://www.forbes.com/sites/jasonevangelho/2019/05/07/linux-marketing-sucks-a-rant-about-distros-messaging-and-that-sexy-windows-terminal-trailer/)" article I highlighted a few successes and failures in that department. That's why this category shoots straight to the top of this list.
-
-And it's an interesting topic, because although most projects need marketing, my observation is they don't know *exactly what *they need. Some have little to no marketing to begin with.
+There's ample room for improvement with regards to Desktop Linux marketing. And it's an interesting topic, because although most projects need marketing, my observation is they don't know *exactly what* they need. Some have little to no marketing to begin with.
 
 Exposure is invaluable, and there are numerous ways to assist here. Maybe your favorite distro could benefit from an Instagram account that does nothing but show off eye candy a few times per week. Perhaps they could use additional team members on their Telegram, Facebook or Twitter accounts to *engage consistently* with the community.
 
@@ -84,12 +76,11 @@ You don't need a degree to make a difference here. You just need a simple idea t
 
 Do you have an obsession for collecting hardware? Building rigs? Got a 4K monitor lying around? Got a super old crusty laptop? That equipment may be more useful thank you think in helping out your favorite distros.
 
-Recently I did some [power consumption testing](http://www.forbes.com/sites/jasonevangelho/2019/05/06/benchmarked-the-most-power-efficient-ubuntu-19-04-flavor-will-surprise-you/)
-with various Ubuntu 19.04 flavors and noticed some anomalies with Ubuntu Budgie. Because I have a pair of laptops that support the "sys.power" sensor (and the Ubuntu Budgie team does *not*), I'm in the process of helping them narrow down any quirks and identify where those deficiencies may lie.
+Recently I did some power consumption testing with various Ubuntu 19.04 flavors and noticed some anomalies with Ubuntu Budgie. Because I have a pair of laptops that support the "sys.power" sensor (and the Ubuntu Budgie team does *not*), I'm in the process of helping them narrow down any quirks and identify where those deficiencies may lie.
 
 "Welcome to the team," Krysak told me. "You're contributing!"
 
-Huh, what do ya know? That experience is partially what inspired this article.
+Huh, what do ya know? That experience is partially what inspired this Wiki.
 
 Seriously, reach out to them because you never know. . .
 
@@ -103,7 +94,7 @@ If you have an early adopter mentality or do a lot of distro hopping, you're a p
 
 Unfortunately it's rarely a user-friendly experience. They all have different procedures, different criteria. Ubuntu has a built-in bug reporting tool, and Canonical has [excellent documentation](https://help.ubuntu.com/community/ReportingBugs) on how to proceed. That documentation is lengthy though. Fedora uses Bugzilla. Other distros such as [elementary OS](https://elementary.io/docs/code/reference#saving-window-state) use GitHub. They also have clear documentation explaining how and when to file a bug report.
 
-By now you're probably realizing they all operate differently with regards to bug reporting. If you're sure you've spotted a nasty bug and want to report it but have no clue what to do or where to go, you can always reach out to the teams directly via their contact pages, social media or IRC channels (in my experience they're very responsive).
+By now you're probably realizing they all operate differently with regards to bug reporting. If you're sure you've spotted a nasty bug and want to report it but have no clue what to do or where to go, you can always reach out to the teams directly via their contact pages, social media or IRC channels.
 
 Believe me, they'll appreciate the effort.
 
@@ -131,8 +122,6 @@ If you're a veteran user of certain open source software, a command line guru, o
 
 This intersects with bug reporting in the sense that we often *assume* things are being acted on. But maybe they aren't. Maybe there are users who simply can't find an answer to their question and end up moving on to a more active or well-documented distro / software community.
 
-On a daily basis I field questions from people on Twitter I'm not equipped to answer. Questions that yielded no results when scouring the web for an answer. Sometimes even a simple retweet brings more visibility to that question, and it often gets answered by multiple people! So I'm certain the need exists, and I'm equally certain many of you have the chops and the capability to remove someone's headache and turn it into a victory.
-
 ### Translations
 
 "We always need more translators in Ubuntu," Canonical's Alan Pope says. "Much of it happens in the upstream projects, but there's also a load of projects in [launchpad](https://translations.launchpad.net/ubuntu/eoan/+translations) which can do with help. Focus is Eoan (19.10), and some languages have few (or no) contributors. [http://bit.ly/2HdUkPW."](https://t.co/pknikQW90k)
@@ -141,7 +130,7 @@ If you speak two or more languages fluently, you're in a great position to help 
 
 OpenSUSE also needs help with finalizing -- and in some cases even starting -- the translation process for [various software projects](https://l10n.opensuse.org/). Several of them have a listed status of 0%. Daniel Fore of elementary OS tells me they always need assistance with translations too, and I'd imagine this applies to almost any distro out there.
 
-I've just scratched the surface here, and there's no shortage of ways to contribute in this department.
+There's no shortage of ways to contribute in this department.
 
 ### Get Creative: Art, Photography And Beyond
 
@@ -159,13 +148,13 @@ Perhaps the most obvious -- and for some the easiest -- way to contribute is wit
 
 You may think a few bucks doesn't make a difference. It does when that's multiplied by hundreds or thousands of people giving a small one-time donation.
 
-More than 2000 words and we've just scratched the surface. That's why this needs to be turned into a living, breathing Wiki page. Please watch [my Twitter](http://twitter.com/killyourfm) for developments on that front.
-
-In the meantime, I've collected a few "Get Involved" links desktop Linux distros and desktop environments. This is obviously not comprehensive, but hopefully can be your gateway to making a difference. And hey, many of these pages probably need updates, too. You can even help with *that*!
-
-(Distro teams: if you don't have one of these pages, you need one.)
-
 ## Awesome Links: Get Involved
+
+We're collecting all the "Get Involved" links we can find for desktop Linux distros, desktop environments, and FOSS software projects. This is obviously not comprehensive, but hopefully can be your gateway to making a difference. And hey, many of these pages probably need updates, too. You can even help with *that*!
+
+(Distro and FOSS software teams: if you don't have one of these pages, you need one.)
+
+#Linux Distributions
 
 - [Arch](https://wiki.archlinux.org/index.php/getting_involved)
 - [Debian](https://www.debian.org/intro/help)
@@ -181,11 +170,11 @@ In the meantime, I've collected a few "Get Involved" links desktop Linux distros
 - [Ubuntu](https://wiki.ubuntu.com/ContributeToUbuntu)
 - [Ubuntu Budgie](https://discourse.ubuntubudgie.org/c/Get-Involved?status=open)
 - [Xubuntu](https://xubuntu.org/contribute/)
+
+#Desktop Environments
+
 - [GNOME](https://www.gnome.org/get-involved/)
 - [KDE](https://community.kde.org/Get_Involved)
 - [LXQt](https://github.com/lxqt/lxqt/blob/master/CONTRIBUTING.md)
 - [Xfce](https://www.xfce.org/getinvolved)
 
-Thanks to Alan Pope, Dustin Krysak, and everyone in the community who
-helped make this article a reality. This is only the seed though. Time
-to make it bloom. . .
