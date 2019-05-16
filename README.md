@@ -1,4 +1,5 @@
 # contribute-foss
+
 1. [Background](#Background)
 2. [Identifying How You Can Help](#Identifying-How-You-Can-Help)
    1. [Marketing And Advocacy](#Marketing-And-Advocacy)
@@ -11,21 +12,18 @@
    8. [Donations](#Donations)
 3. [Awesome Links: Get Involved!](#Awesome-Links:-Get-Involved!)
 
-
-
 ## Background
 
-This project was inspired in part by Ubuntu Budgie system administrator Dustin Krysak, and began as a Forbes article entitled "8 Ways To Contribute To The Desktop Linux Community, Without Knowing A Single Line Of Code."
+This project was inspired in part by Ubuntu Budgie system administrator Dustin Krysak, and began as a Forbes article entitled "[8 Ways To Contribute To The Desktop Linux Community, Without Knowing A Single Line Of Code.](https://www.forbes.com/sites/jasonevangelho/2019/05/13/8-ways-contribute-desktop-linux-community-marketing-documentation-art-testing/)"
 
-Link: https://www.forbes.com/sites/jasonevangelho/2019/05/13/8-ways-contribute-desktop-linux-community-marketing-documentation-art-testing/
+The article was just the beginning, however. The end goal is to create a living Wiki page with detailed ideas on how to contribute to the Linux and open source software community, regardless of skillset or experience.
 
-The article was just the beginning, however. The end goal is to create a living Wiki page with detailed ideas on how to contribute to the Linux and open source software community, regardless of skillset or experience. 
-
-The Wiki should include exhaustive links to various "Get Involved" pages of all Linux distributions and open source software projects. 
+The Wiki should include exhaustive links to various "Get Involved" pages of all Linux distributions and open source software projects.
 
 I have no experience creating a Wiki, and this is my first GitHub project, so any and all suggestions and feedback are welcome.  
 
 ## Introduction
+
 Have you ever felt the urge to give back to the Linux community? To help out the developers who spend a significant amount of their (typically unpaid) free time creating the distro, software, or desktop environment that you enjoy on a daily basis? If you're anything like me, you may have reservations about this. Maybe you're not some technically savvy power user, maybe you have zero programming or coding skills. Maybe you
 just have no clue where to start. That's exactly the predicament I found myself in, so I started asking questions.
 
@@ -33,7 +31,7 @@ I spoke extensively with [Dustin Krysak](http://twitter.com/bashfulrobot), a sys
 [Ubuntu Budgie](https://ubuntubudgie.org/) team, and tons of other people chimed in with helpful suggestions. Two dominant themes emerged from these conversations. First, there are numerous ways to make a
 tangible difference even if you can't write a single line of code. Second, they're starving for help.
 
-> "Programming is the carpenter, but you still need the architects, designers, project managers (quite literally), permit people - to make a construction job come together," 
+> "Programming is the carpenter, but you still need the architects, designers, project managers (quite literally), permit people - to make a construction job come together,"
 
 Krysak says.
 
@@ -42,12 +40,11 @@ So below, I'm going to outline a bunch of things we can do to make an impact. To
 Let me begin with some inspiration, especially for those of you with a knack for answering community questions. It's an awesome origin story from someone many of you are familiar with: Canonical's [Alan
 Pope](http://twitter.com/popey) aka Popey.
 
-I got involved in [#ubuntu](https://twitter.com/hashtag/ubuntu?src=hash&ref_src=twsrc%5Etfw)
+I got involved in [#ubuntu](https://answers.launchpad.net/~popey/+commentedquestions?batch=75&direction=backwards&start=825)
 in ~2006 by answering hundreds of support questions. Not a developer. It was a low-impact (to me) way to contribute. Got recognition and eventually a job. [https://t.co/gHwLrtPyrH ](https://t.co/gHwLrtPyrH)---
 Alan Pope (@popey) [May 9,2019](https://twitter.com/popey/status/1126403796660301824?ref_src=twsrc%5Etfw)
 
 You never know who's watching. . .
-
 
 ### Limitations
 
@@ -83,11 +80,7 @@ What about creating merch? Assisting with or creating a podcast? The possibiliti
 
 You don't need a degree to make a difference here. You just need a simple idea that hasn't been executed yet. So get in touch with them and suggest (or ask about) ways you can contribute! And there's nothing at all wrong with simply advocating for Linux and open source software in general...
 
-![](Pictures/100002000000000100000001403B87750889687D.gif){width="0.0161in"
-height="0.0161in"}
-
-
-### **Testing**
+### Testing
 
 Do you have an obsession for collecting hardware? Building rigs? Got a 4K monitor lying around? Got a super old crusty laptop? That equipment may be more useful thank you think in helping out your favorite distros.
 
@@ -101,7 +94,6 @@ Huh, what do ya know? That experience is partially what inspired this article.
 Seriously, reach out to them because you never know. . .
 
 ### **Filing Bug Reports**
-
 
 "There are times we do not even know about a bug or annoyance simply because we never hit that scenario, or had a report filed," Krysak tells me.
 
@@ -161,7 +153,6 @@ Someone, somewhere contributed to that awesome collection of desktop background 
 
 If you're a creative type -- whether that's music, art, photography, video production, 3D graphics, programming, or even if you have a cool idea in your head but lack the technical chops to execute it -- don't hesitate to mingle with the community and work on something together.
 
-
 ### **Donations**
 
 Perhaps the most obvious -- and for some the easiest -- way to contribute is with your cash. Does your favorite distro have a Patreon? Do they have a donation page? Do they have an independent App Center (ala [elementary OS](http://www.forbes.com/sites/jasonevangelho/2019/01/29/linux-distro-spotlight-what-i-love-about-elementary-os/)) where developers are selling their software? These all make a substantial difference in the livelihood of those developers, the sustainability of the distro and the rate at which improvements and features are added.
@@ -174,26 +165,26 @@ In the meantime, I've collected a few "Get Involved" links desktop Linux distros
 
 (Distro teams: if you don't have one of these pages, you need one.)
 
-## Awesome Links: Get Involved!
+## Awesome Links: Get Involved
 
--   [Arch](https://wiki.archlinux.org/index.php/getting_involved)
--   [Debian](https://www.debian.org/intro/help)
--   [elementary OS](https://elementary.io/get-involved#support)
--   [Fedora](https://fedoraproject.org/wiki/Join)
--   [Linux Mint](https://linuxmint.com/getinvolved.php)
--   [Lubuntu](https://lubuntu.me/links/)
--   [Manjaro](https://manjaro.github.io/homepage/public/get-involved/)
--   [MX Linux](https://mxlinux.org/donate/)
--   [openSUSE](https://en.opensuse.org/Portal:How_to_participate)
--   [Pop!_OS](https://system76.com/pop/community)
--   [Solus](https://getsol.us/articles/contributing/getting-involved/en/)
--   [Ubuntu](https://wiki.ubuntu.com/ContributeToUbuntu)
--   [Ubuntu Budgie](https://ubuntubudgie.org/opportunities)
--   [Xubuntu](https://xubuntu.org/contribute/)
--   [GNOME](https://www.gnome.org/get-involved/)
--   [KDE ](https://community.kde.org/Get_Involved)
--   [LXQt](https://github.com/lxqt/lxqt/blob/master/CONTRIBUTING.md)
--   [Xfce ](https://www.xfce.org/getinvolved)
+- [Arch](https://wiki.archlinux.org/index.php/getting_involved)
+- [Debian](https://www.debian.org/intro/help)
+- [elementary OS](https://elementary.io/get-involved#support)
+- [Fedora](https://fedoraproject.org/wiki/Join)
+- [Linux Mint](https://linuxmint.com/getinvolved.php)
+- [Lubuntu](https://lubuntu.me/links/)
+- [Manjaro](https://manjaro.github.io/homepage/public/get-involved/)
+- [MX Linux](https://mxlinux.org/donate/)
+- [openSUSE](https://en.opensuse.org/Portal:How_to_participate)
+- [Pop!_OS](https://system76.com/pop/community)
+- [Solus](https://getsol.us/articles/contributing/getting-involved/en/)
+- [Ubuntu](https://wiki.ubuntu.com/ContributeToUbuntu)
+- [Ubuntu Budgie](https://ubuntubudgie.org/opportunities)
+- [Xubuntu](https://xubuntu.org/contribute/)
+- [GNOME](https://www.gnome.org/get-involved/)
+- [KDE](https://community.kde.org/Get_Involved)
+- [LXQt](https://github.com/lxqt/lxqt/blob/master/CONTRIBUTING.md)
+- [Xfce](https://www.xfce.org/getinvolved)
 
 Thanks to Alan Pope, Dustin Krysak, and everyone in the community who
 helped make this article a reality. This is only the seed though. Time
