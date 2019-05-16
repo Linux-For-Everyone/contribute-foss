@@ -1,4 +1,4 @@
-# contribute-foss
+# Contribute Foss
 
 1. [Background](#Background)
 2. [Identifying How You Can Help](#Identifying-How-You-Can-Help)
