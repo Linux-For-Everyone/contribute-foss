@@ -180,3 +180,5 @@ We're collecting all the "Get Involved" links we can find for desktop Linux dist
 - [LXQt](https://github.com/lxqt/lxqt/blob/master/CONTRIBUTING.md)
 - [Xfce](https://www.xfce.org/getinvolved)
 
+### [Applications](https://github.com/thefenriswolf/contribute-foss/blob/master/applications.md)
+
