@@ -13,6 +13,7 @@
 3. [Awesome Links: Get Involved](#Awesome-Links:-Get-Involved!)
    1. [Linux Distributions](#Linux-Distributions)
    2. [Desktop Environments](#Desktop-Environments)
+   3. [Applications](#Applications)
 ## Background
 
 This project was inspired in part by Ubuntu Budgie system administrator Dustin Krysak, and began as a Forbes article entitled "[8 Ways To Contribute To The Desktop Linux Community, Without Knowing A Single Line Of Code.](https://www.forbes.com/sites/jasonevangelho/2019/05/13/8-ways-contribute-desktop-linux-community-marketing-documentation-art-testing/)"
