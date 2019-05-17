@@ -169,6 +169,7 @@ We're collecting all the "Get Involved" links we can find for desktop Linux dist
 - [Solus](https://getsol.us/articles/contributing/getting-involved/en/)
 - [Ubuntu](https://wiki.ubuntu.com/ContributeToUbuntu)
 - [Ubuntu Budgie](https://discourse.ubuntubudgie.org/c/Get-Involved?status=open)
+- [Ubuntu Mate](https://ubuntu-mate.org/community/)
 - [Xubuntu](https://xubuntu.org/contribute/)
 
 ### Desktop Environments
