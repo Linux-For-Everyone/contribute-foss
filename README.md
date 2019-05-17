@@ -1,18 +1,25 @@
-# Contributing To The Linux And FOSS Community 
+# Contributing To The Linux And FOSS Community
 
-1. [Background](#Background)
-2. [Identifying How You Can Help](#Identifying-How-You-Can-Help)
-   1. [Marketing And Advocacy](#Marketing-And-Advocacy)
-   2. [Testing](#Testing)
-   3. [Filing Bug Reports](#Filing-Bug-Reports)
-   4. [Documentation](#Documentation)
-   5. [Community Questions & Support](#Community-Questions-&-Support)
-   6. [Translations](#Translations)
-   7. [Art, Photography And Beyond](#Get-Creative:-Art,-Photography-And-Beyond)
-   8. [Donations](#Donations)
-3. [Awesome Links: Get Involved](#Awesome-Links:-Get-Involved!)
-   1. [Linux Distributions](#Linux-Distributions)
-   2. [Desktop Environments](#Desktop-Environments)
+- [Contributing To The Linux And FOSS Community](#contributing-to-the-linux-and-foss-community)
+  - [Background](#background)
+  - [Introduction](#introduction)
+    - [Limitations](#limitations)
+  - [Identifying How You Can Help](#identifying-how-you-can-help)
+    - [Marketing And Advocacy](#marketing-and-advocacy)
+    - [Testing](#testing)
+    - [Filing Bug Reports](#filing-bug-reports)
+    - [Documentation](#documentation)
+    - [Community Questions & Support](#community-questions--support)
+    - [Translations](#translations)
+    - [Get Creative: Art, Photography And Beyond](#get-creative-art-photography-and-beyond)
+    - [Donations](#donations)
+  - [Awesome Links: Get Involved](#awesome-links-get-involved)
+    - [Open Source Operating Systems](#open-source-operating-systems)
+      - [Linux Distributions](#linux-distributions)
+      - [BSD](#bsd)
+      - [Windows](#windows)
+    - [Desktop Environments](#desktop-environments)
+
 ## Background
 
 This project was inspired in part by Ubuntu Budgie system administrator Dustin Krysak, and began as a Forbes article entitled "[8 Ways To Contribute To The Desktop Linux Community, Without Knowing A Single Line Of Code.](https://www.forbes.com/sites/jasonevangelho/2019/05/13/8-ways-contribute-desktop-linux-community-marketing-documentation-art-testing/)"
@@ -44,7 +51,7 @@ You never know who's watching. . .
 
 ### Limitations
 
-[Consider Removing] 
+[Consider Removing]
 Doing the research for the original article, I discovered that every distro does things a little differently. I can help you generate some ideas for *how* to contribute, but finding *where* to get started may require some independent sleuthing on your part. Each project has minor to major deviations in how they do things, whether that's documentation, bug reporting, submitting artwork or helping with translation.
 
 My general advice: if something on this page sparks your imagination, visit your favorite project's website and look for "How To Contribute" or "Get Involved" links (I've included a few near the end of this article). Failing that, track down their contact information, jump into an IRC or Telegram chat and contact them
@@ -177,6 +184,13 @@ We're collecting all the "Get Involved" links we can find for desktop Linux dist
 #### BSD
 
 - [FreeBSD](https://www.freebsdfoundation.org/get-involved/join-the-community/)
+- [FreeNAS](https://www.freenas.org/our-community/)
+- [GhostBSD](https://ghostbsd.org/contribute)
+- [OpenBSD](https://www.openbsd.org/faq/faq1.html#Support)
+
+#### Windows
+
+- [ReactOS](https://www.reactos.org/participation)
 
 ### Desktop Environments
 
@@ -184,4 +198,3 @@ We're collecting all the "Get Involved" links we can find for desktop Linux dist
 - [KDE](https://community.kde.org/Get_Involved)
 - [LXQt](https://github.com/lxqt/lxqt/blob/master/CONTRIBUTING.md)
 - [Xfce](https://www.xfce.org/getinvolved)
-
