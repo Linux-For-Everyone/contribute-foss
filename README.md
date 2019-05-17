@@ -182,4 +182,5 @@ We're collecting all the "Get Involved" links we can find for desktop Linux dist
 - [Xfce](https://www.xfce.org/getinvolved)
 
 ### [Applications](applications.md)
+ - [Medical Imaging](applications.md/#Medical-imaging)
 
