@@ -154,13 +154,14 @@ We're collecting all the "Get Involved" links we can find for desktop Linux dist
 
 (Distro and FOSS software teams: if you don't have one of these pages, you need one.)
 
-### Linux Distributions
+### Open Source Operating Systems
+
+#### Linux Distributions
 
 - [Arch](https://wiki.archlinux.org/index.php/getting_involved)
 - [Debian](https://www.debian.org/intro/help)
 - [elementary OS](https://elementary.io/get-involved#support)
 - [Fedora](https://fedoraproject.org/wiki/Join)
-- [FreeBSD](https://www.freebsdfoundation.org/get-involved/join-the-community/)
 - [Linux Mint](https://linuxmint.com/getinvolved.php)
 - [Lubuntu](https://lubuntu.me/links/)
 - [Manjaro](https://manjaro.github.io/homepage/public/get-involved/)
@@ -172,6 +173,10 @@ We're collecting all the "Get Involved" links we can find for desktop Linux dist
 - [Ubuntu Budgie](https://discourse.ubuntubudgie.org/c/Get-Involved?status=open)
 - [Ubuntu Mate](https://ubuntu-mate.org/community/)
 - [Xubuntu](https://xubuntu.org/contribute/)
+
+#### BSD
+
+- [FreeBSD](https://www.freebsdfoundation.org/get-involved/join-the-community/)
 
 ### Desktop Environments
 
