@@ -17,7 +17,7 @@
     - [Operating Systems](#operating-systems)
       - [Linux Distributions](#linux-distributions)
       - [BSD](#bsd)
-      - [Windows](#windows)
+      - [Other](#other)
     - [Desktop Environments](#desktop-environments)
     - [Applications](#applications)
 
