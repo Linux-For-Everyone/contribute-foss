@@ -188,7 +188,7 @@ We're collecting all the "Get Involved" links we can find for desktop Linux dist
 - [GhostBSD](https://ghostbsd.org/contribute)
 - [OpenBSD](https://www.openbsd.org/faq/faq1.html#Support)
 
-#### Windows
+#### Other
 
 - [ReactOS](https://www.reactos.org/participation)
 
