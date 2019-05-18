@@ -14,7 +14,7 @@
     - [Get Creative: Art, Photography And Beyond](#get-creative-art-photography-and-beyond)
     - [Donations](#donations)
   - [Awesome Links: Get Involved](#awesome-links-get-involved)
-    - [Open Source Operating Systems](#open-source-operating-systems)
+    - [Operating Systems](#operating-systems)
       - [Linux Distributions](#linux-distributions)
       - [BSD](#bsd)
       - [Windows](#windows)
@@ -162,7 +162,9 @@ We're collecting all the "Get Involved" links we can find for desktop Linux dist
 
 (Distro and FOSS software teams: if you don't have one of these pages, you need one.)
 
-### Linux Distributions
+### Operating Systems
+
+#### Linux Distributions
 
 - [Arch](https://wiki.archlinux.org/index.php/getting_involved)
 - [Debian](https://www.debian.org/intro/help)
