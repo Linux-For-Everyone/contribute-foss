@@ -202,8 +202,8 @@ We're collecting all the "Get Involved" links we can find for desktop Linux dist
 - [LXQt](https://github.com/lxqt/lxqt/blob/master/CONTRIBUTING.md)
 - [Xfce](https://www.xfce.org/getinvolved)
 
-### [Applications](applications.md/#applications)
+### [Applications](applications.md#applications)
 
-#### [Desktop](applications.md/#desktop)
+#### [Desktop](applications.md#desktop)
 
-- [Medical Imaging](applications.md/#medical-imaging)
+- [Medical Imaging](applications.md#medical-imaging)
