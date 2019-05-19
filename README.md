@@ -29,7 +29,7 @@ The article was just the beginning, however. The end goal was to create a living
 
 The Wiki will include exhaustive links to various "Get Involved" pages of all Linux distributions and open source software projects of all sizes.
 
-This is my first Github project (it's *our* project now) and first time embarking on such an endeavor, so any and all suggestions and feedback are welcome. 
+This is my first Github project (it's *our* project now) and first time embarking on such an endeavor, so any and all suggestions and feedback are welcome.
 
 ## Introduction
 
@@ -40,12 +40,11 @@ I spoke extensively with [Dustin Krysak](http://twitter.com/bashfulrobot), a sys
 
 > "Programming is the carpenter, but you still need the architects, designers, project managers (quite literally), permit people - to make a construction job come together," Krysak says.
 
-Below we've listed several ideas to spark your imaginations. To help make a difference. To bring more visibility to your favorite projects and improve them for everyone. Then in the [Awesome Links: Get Involved](#Awesome-Links:-Get-Involved!) section you'll find an ever-growing list of links leading you directly to the portal, web page, or contact info you'll need to get started. 
+Below we've listed several ideas to spark your imaginations. To help make a difference. To bring more visibility to your favorite projects and improve them for everyone. Then in the [Awesome Links: Get Involved](#Awesome-Links:-Get-Involved!) section you'll find an ever-growing list of links leading you directly to the portal, web page, or contact info you'll need to get started.
 
 Let's begin with some words of inspiration, especially for those of you with a knack for answering community questions. It's an awesome origin story from someone many of you are familiar with: Canonical's [Alan Pope](http://twitter.com/popey) aka Popey.
 
-I got [involved in #ubuntu](https://answers.launchpad.net/~popey/+commentedquestions?batch=75&direction=backwards&start=825)
-in ~2006 by answering hundreds of support questions. Not a developer. It was a low-impact (to me) way to contribute. Got recognition and eventually a job. [https://t.co/gHwLrtPyrH ](https://t.co/gHwLrtPyrH)---
+I got [involved in #ubuntu](https://answers.launchpad.net/~popey/+commentedquestions?batch=75&direction=backwards&start=825) in ~2006 by answering hundreds of support questions. Not a developer. It was a low-impact (to me) way to contribute. Got recognition and eventually a job. [https://t.co/gHwLrtPyrH ](https://t.co/gHwLrtPyrH)---
 Alan Pope (@popey) [May 9,2019](https://twitter.com/popey/status/1126403796660301824?ref_src=twsrc%5Etfw)
 
 You never know who's watching. . .
@@ -196,10 +195,12 @@ We're collecting all the "Get Involved" links we can find for desktop Linux dist
 
 ### Desktop Environments
 
+- [Budgie](https://github.com/solus-project/budgie-desktop)
 - [GNOME](https://www.gnome.org/get-involved/)
 - [KDE](https://community.kde.org/Get_Involved)
 - [LXQt](https://github.com/lxqt/lxqt/blob/master/CONTRIBUTING.md)
 - [Xfce](https://www.xfce.org/getinvolved)
 
 ### [Applications](applications.md)
- - [Medical Imaging](applications.md/#Medical-imaging)
+
+- [Medical Imaging](applications.md/#Medical-imaging)
