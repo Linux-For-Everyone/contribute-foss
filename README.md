@@ -171,6 +171,7 @@ We're collecting all the "Get Involved" links we can find for desktop Linux dist
 - [elementary OS](https://elementary.io/get-involved#support)
 - [Fedora](https://fedoraproject.org/wiki/Join)
 - [FreeBSD](https://www.freebsdfoundation.org/get-involved/join-the-community/)
+- [Gentoo](https://wiki.gentoo.org/wiki/Contributing_to_Gentoo)
 - [Linux Mint](https://linuxmint.com/getinvolved.php)
 - [Lubuntu](https://lubuntu.me/links/)
 - [Manjaro](https://manjaro.github.io/homepage/public/get-involved/)
