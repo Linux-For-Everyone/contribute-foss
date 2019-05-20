@@ -169,7 +169,10 @@ We're collecting all the "Get Involved" links we can find for desktop Linux dist
 - [Arch](https://wiki.archlinux.org/index.php/getting_involved)
 - [Debian](https://www.debian.org/intro/help)
 - [elementary OS](https://elementary.io/get-involved#support)
-- [Fedora](https://fedoraproject.org/wiki/Join)
+- Fedora Project
+    - [What can I do for Fedora?](https://whatcanidoforfedora.org/)
+    - [Join Fedora](https://fedoraproject.org/wiki/Join)
+    - [Contributing to Fedora](https://ask.fedoraproject.org/c/community/contributing-to-fedora) on [Ask Fedora](https://ask.fedoraproject.org/)
 - [FreeBSD](https://www.freebsdfoundation.org/get-involved/join-the-community/)
 - [Linux Mint](https://linuxmint.com/getinvolved.php)
 - [Lubuntu](https://lubuntu.me/links/)
