@@ -46,8 +46,9 @@ Below we've listed several ideas to spark your imaginations. To help make a diff
 
 Let's begin with some words of inspiration, especially for those of you with a knack for answering community questions. It's an awesome origin story from someone many of you are familiar with: Canonical's [Alan Pope](http://twitter.com/popey) aka Popey.
 
-I got [involved in #ubuntu](https://answers.launchpad.net/~popey/+commentedquestions?batch=75&direction=backwards&start=825) in ~2006 by answering hundreds of support questions. Not a developer. It was a low-impact (to me) way to contribute. Got recognition and eventually a job. [https://t.co/gHwLrtPyrH](https://t.co/gHwLrtPyrH)---
-Alan Pope (@popey) [May 9,2019](https://twitter.com/popey/status/1126403796660301824?ref_src=twsrc%5Etfw)
+> "I got [involved in #ubuntu](https://answers.launchpad.net/~popey/+commentedquestions?batch=75&direction=backwards&start=825) in ~2006 by answering hundreds of support questions. Not a developer. It was a low-impact (to me) way to contribute. Got recognition and eventually a job." [https://t.co/gHwLrtPyrH](https://t.co/gHwLrtPyrH)
+
+---Alan Pope (@popey) [May 9,2019](https://twitter.com/popey/status/1126403796660301824?ref_src=twsrc%5Etfw)
 
 You never know who's watching. . .
 
@@ -83,7 +84,7 @@ You don't need a degree to make a difference here. You just need a simple idea t
 
 ### Testing
 
-Do you have an obsession for collecting hardware? Building rigs? Got a 4K monitor lying around? Got a super old crusty laptop? That equipment may be more useful thank you think in helping out your favorite distros.
+Do you have an obsession for collecting hardware? Building rigs? Got a 4K monitor lying around? Got a super old crusty laptop? That equipment may be more useful than you think in helping out your favorite distros.
 
 Recently I did some power consumption testing with various Ubuntu 19.04 flavors and noticed some anomalies with Ubuntu Budgie. Because I have a pair of laptops that support the "sys.power" sensor (and the Ubuntu Budgie team does *not*), I'm in the process of helping them narrow down any quirks and identify where those deficiencies may lie.
 
