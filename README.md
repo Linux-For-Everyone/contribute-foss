@@ -174,6 +174,7 @@ We're collecting all the "Get Involved" links we can find for desktop Linux dist
 - [Gentoo](https://wiki.gentoo.org/wiki/Contributing_to_Gentoo)
 - [Linux Mint](https://linuxmint.com/getinvolved.php)
 - [Lubuntu](https://lubuntu.me/links/)
+- [Mageia](https://www.mageia.org/contribute/)
 - [Manjaro](https://manjaro.github.io/homepage/public/get-involved/)
 - [MX Linux](https://mxlinux.org/donate/)
 - [openSUSE](https://en.opensuse.org/Portal:How_to_participate)
