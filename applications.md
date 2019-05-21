@@ -9,6 +9,12 @@
 
 ## Desktop
 
+### Game Development
+
+| Name                                               | Language                                            | Contribute                                                                                           | Licence                                      | Additional Info                            |
+| -------------------------------------------------- | --------------------------------------------------- | ---------------------------------------------------------------------------------------------------- | -------------------------------------------- | ------------------------------------------ |
+| [Godot Engine](https://godotengine.org/)           | [C++](https://github.com/godotengine/godot)         | [start here](https://docs.godotengine.org/en/latest/community/contributing/ways_to_contribute.html)  | [MIT](https://github.com/godotengine/godot)  | Also documentation, translation, donations |
+
 ### Medical Imaging
 
 | Name                                               | Language                                            | Contribute                                       | Licence                                                                    | Additional Info    |
