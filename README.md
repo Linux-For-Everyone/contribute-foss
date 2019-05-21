@@ -211,6 +211,7 @@ We're collecting all the "Get Involved" links we can find for desktop Linux dist
 - [Design Software](applications.md#design-software)
 - [Game Development](applications.md#game-development)
 - [GPU Drivers](applications.md#gpu-drivers)
-- [Game Utilities](applications.md#gpu-utilities)
+- [GPU Utilities](applications.md#gpu-utilities)
 - [Medical Imaging](applications.md#medical-imaging)
 - [Video Editing Software](applications.md#video-editing-software)
+- [Web Browser](applications.md#web-browser)
