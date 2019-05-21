@@ -47,14 +47,10 @@
 
 ### Video Editing Software
 
-| Name                                | Language                                            | Contribute                                                 | Licence                                                               | Additional Info                                        |
+| Name                                | Language                                            | Contribute                                                 | License                                                               | Additional Info                                        |
 | ----------------------------------- | --------------------------------------------------- | ---------------------------------------------------------- | --------------------------------------------------------------------- | ------------------------------------------------------ |
 | [KdenLive](https://kdenlive.org/en) | [C++/Qml]()                                         | [start here](https://kdenlive.org/en/developers-welcome/#) | [GPLv2](https://www.gnu.org/licenses/old-licenses/gpl-2.0.txt)        | Donations, Developers, Bug Triaging, Donations Welcome |
 | [Openshot](https://openshot.org/)   | [C++](https://github.com/OpenShot?language=c%2B%2B) | [start here](https://www.openshot.org/donate/)             | [GPLv3](https://github.com/OpenShot/openshot-qt/blob/develop/COPYING) | Donations welcome                                      |
-| Name                                               | Language                                            | Contribute                                       | Licence                                                                    | Additional Info    |
-| -------------------------------------------------- | --------------------------------------------------- | ------------------------------------------------ | -------------------------------------------------------------------------- | ------------------ |
-| [KdenLive](https://kdenlive.org/en)                | [C++/Qml]()      |[start here](https://kdenlive.org/en/developers-welcome/#) | [GPLv2](https://www.gnu.org/licenses/old-licenses/gpl-2.0.txt) | Donations, Developers, Bug Triaging, Donations Welcome |
-| [Openshot](https://openshot.org/)                | [C++](https://github.com/OpenShot?language=c%2B%2B)      | [start here](https://www.openshot.org/donate/)   | [GPLv3](https://github.com/OpenShot/openshot-qt/blob/develop/COPYING) | Donations welcome |
 
 ### Web Browser
 
