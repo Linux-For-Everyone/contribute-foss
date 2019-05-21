@@ -9,11 +9,36 @@
 
 ## Desktop
 
+### Design Software 
+
+| Name                                               | Language                                            | Contribute                                                                                           | Licence                                      | Additional Info                            |
+| -------------------------------------------------- | --------------------------------------------------- | ---------------------------------------------------------------------------------------------------- | -------------------------------------------- | ------------------------------------------ |
+| [AkiraUX](https://github.com/akiraux/Akira)           | [Language]()         | [start here]()  | [License]()  | ADD |
+| [Blender](https://www.blender.org)           | [Language]()         | [start here](https://www.blender.org/get-involved/)  | [License]()  | ADD |
+| [DarkTable](https://darktable.org)           | [Language]()         | [start here](https://www.darktable.org/development/)  | [License]()  | ADD |
+| [Inkscape](https://inkscape.org)           | [Language]()         | [start here]()  | [License]()  | ADD |
+| [Krita](https://krita.org/)           | [Language]()         | [start here](en/get-involved/overview)  | [License]()  | ADD |
+
+
+
 ### Game Development
 
 | Name                                               | Language                                            | Contribute                                                                                           | Licence                                      | Additional Info                            |
 | -------------------------------------------------- | --------------------------------------------------- | ---------------------------------------------------------------------------------------------------- | -------------------------------------------- | ------------------------------------------ |
 | [Godot Engine](https://godotengine.org/)           | [C++](https://github.com/godotengine/godot)         | [start here](https://docs.godotengine.org/en/latest/community/contributing/ways_to_contribute.html)  | [MIT](https://github.com/godotengine/godot)  | Also documentation, translation, donations |
+
+### GPU Drivers
+
+| Name                                               | Language                                            | Contribute                                                                                           | Licence                                      | Additional Info                            |
+| -------------------------------------------------- | --------------------------------------------------- | ---------------------------------------------------------------------------------------------------- | -------------------------------------------- | ------------------------------------------ |
+| [FreeDreno](https://github.com/freedreno/freedreno)           | [Language]()         | [start here]()  | [License]()  | ADD |
+
+### GPU Utilities 
+
+| Name                                               | Language                                            | Contribute                                                                                           | Licence                                      | Additional Info                            |
+| -------------------------------------------------- | --------------------------------------------------- | ---------------------------------------------------------------------------------------------------- | -------------------------------------------- | ------------------------------------------ |
+| [radeon-profile](https://github.com/marazmista/radeon-profile)           | [Language]()         | [start here]()  | [License]()  | ADD |
+| [WattmanGRK](https://github.com/BoukeHaarsma23/WattmanGTK)           | [Language]()         | [start here]()  | [License]()  | ADD |
 
 ### Medical Imaging
 
