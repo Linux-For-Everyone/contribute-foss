@@ -65,3 +65,9 @@
 | Name                           | Language                             | Contribute                                       | License                                                        | Additional Info                                                                            |
 | ------------------------------ | ------------------------------------ | ------------------------------------------------ | -------------------------------------------------------------- | ------------------------------------------------------------------------------------------ |
 | [Pi-hole](https://pi-hole.net) | Shell/Python/PHP/CSS/Roff/Dockerfile | [start here](https://github.com/pi-hole/pi-hole) | [EUPL](https://github.com/pi-hole/pi-hole/blob/master/LICENSE) | [Donations welcome](https://pi-hole.net/donate), [Patreon](https://www.patreon.com/pihole) |
+
+### Business Suite
+
+| Name                           | Language                             | Contribute                                       | License                                                        | Additional Info                                                                            |
+| ------------------------------ | ------------------------------------ | ------------------------------------------------ | -------------------------------------------------------------- | ------------------------------------------------------------------------------------------ |
+| [Odoo](https://www.odoo.com)  | JavaScript/Python/Java/CSS/HTML/Shell | [start here](https://github.com/odoo/odoo)       | [LGPLv3](https://github.com/odoo/odoo/blob/master/LICENSE)     | [Community](https://www.odoo.com/page/community), [Pricing](https://www.odoo.com/pricing)  |
