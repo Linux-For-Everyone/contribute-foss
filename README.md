@@ -214,3 +214,4 @@ We're collecting all the "Get Involved" links we can find for desktop Linux dist
 - [Game Utilities](applications.md#gpu-utilities)
 - [Medical Imaging](applications.md#medical-imaging)
 - [Video Editing Software](applications.md#video-editing-software)
+- [Web Browser](applications.md#web-browser)
