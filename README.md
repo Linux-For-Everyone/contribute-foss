@@ -207,5 +207,6 @@ We're collecting all the "Get Involved" links we can find for desktop Linux dist
 
 #### [Desktop](applications.md#desktop)
 
+- [Game Development](applications.md#game-development)
 - [Medical Imaging](applications.md#medical-imaging)
 - [Video Editing Software](applications.md#video-editing-software)
