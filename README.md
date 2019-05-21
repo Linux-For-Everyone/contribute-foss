@@ -21,6 +21,7 @@
     - [Desktop Environments](#desktop-environments)
     - [Applications](#applications)
       - [Desktop](#desktop)
+      - [Server](#server)
 
 ## Background
 
@@ -215,3 +216,7 @@ We're collecting all the "Get Involved" links we can find for desktop Linux dist
 - [Medical Imaging](applications.md#medical-imaging)
 - [Video Editing Software](applications.md#video-editing-software)
 - [Web Browser](applications.md#web-browser)
+
+#### [Server](applications.md#server)
+
+- [Ad-blocking](applications.md#ad-blocking)
