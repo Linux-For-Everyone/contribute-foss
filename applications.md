@@ -71,3 +71,10 @@
 | Name                           | Language                             | Contribute                                       | License                                                        | Additional Info                                                                            |
 | ------------------------------ | ------------------------------------ | ------------------------------------------------ | -------------------------------------------------------------- | ------------------------------------------------------------------------------------------ |
 | [Odoo](https://www.odoo.com)  | JavaScript/Python/Java/CSS/HTML/Shell | [start here](https://github.com/odoo/odoo)       | [LGPLv3](https://github.com/odoo/odoo/blob/master/LICENSE)     | [Community](https://www.odoo.com/page/community), [Pricing](https://www.odoo.com/pricing)  |
+
+### Internet Traffic Cache
+
+| Name                                                 | Language                             | Contribute                                             | License                                                             | Additional Info                                                                            |
+| ---------------------------------------------------- | ------------------------------------ | ------------------------------------------------------ | ------------------------------------------------------------------- | ------------------------------------------------------------------------------------------ |
+| [NetCache](https://github.com/MacGyverBass/netcache) | Shell/Dockerfile/Awk                 | [start here](https://github.com/MacGyverBass/netcache) | [MIT](https://github.com/MacGyverBass/netcache/blob/master/LICENSE) | [Docker Image](https://hub.docker.com/r/macgyverbass/netcache)                             |
+| [SteamCache](https://steamcache.github.io/)          | Shell/Dockerfile                     | [start here](https://github.com/steamcache)            | [MIT](https://github.com/steamcache/monolithic/blob/master/LICENSE) | [Docker Images](https://hub.docker.com/u/steamcache)                                       |
