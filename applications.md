@@ -58,6 +58,12 @@
 | ------------------------------------------ | --------------------- | ------------------------------------------------- | ----------------------------------------------------------- | ----------------------------------------------- |
 | [Mozilla Firefox](https://www.mozilla.org) | C++/Rust/Python/Java  | [Start here](https://wiki.mozilla.org/Contribute) | [Mozilla Public License](https://www.mozilla.org/en-US/MPL) | Coding, Testing, Localization, Helping, Writing |
 
+### Window Managers
+
+| Name                                            | Language | Contribute                                                | License                                                                           | Additional Info |
+| ----------------------------------------------- | -------- | --------------------------------------------------------- | --------------------------------------------------------------------------------- | --------------- |
+| [Enlightenment](https://www.enlightenment.org/) | C        | [start here](https://www.enlightenment.org/contrib/start) | [BSD 2-clause](https://git.enlightenment.org/core/enlightenment.git/tree/COPYING) | WM based on EFL |
+
 ## Server
 
 ### Ad-blocking
