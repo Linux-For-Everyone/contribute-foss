@@ -221,3 +221,4 @@ We're collecting all the "Get Involved" links we can find for desktop Linux dist
 #### [Server](applications.md#server)
 
 - [Ad-blocking](applications.md#ad-blocking)
+- [Business Suite](applications.md#business-suite)
