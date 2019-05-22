@@ -62,7 +62,7 @@
 
 | Name                                            | Language | Contribute                                                | License                                                                           | Additional Info |
 | ----------------------------------------------- | -------- | --------------------------------------------------------- | --------------------------------------------------------------------------------- | --------------- |
-| [Enlightenment](https://www.enlightenment.org/) | C        | [start here](https://www.enlightenment.org/contrib/start) | [BSD 2-clause](https://git.enlightenment.org/core/enlightenment.git/tree/COPYING) | WM based on EFL |
+| [Enlightenment](https://www.enlightenment.org/) | C        | [start here](https://www.enlightenment.org/contrib/start) | [BSD 2-clause](https://git.enlightenment.org/core/enlightenment.git/tree/COPYING) |                 |
 
 ## Server
 
