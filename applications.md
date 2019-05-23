@@ -45,6 +45,11 @@
 | [3DSlicer](https://www.slicer.org/)                | [C++/Python](https://github.com/Slicer/Slicer)      | [start here](https://www.slicer.org/wiki/Help)   | [Custom BSD](https://github.com/Slicer/Slicer/blob/master/License.txt)     |                    |
 | [InVesalius](https://www.cti.gov.br/en/invesalius) | [Python](https://github.com/invesalius/invesalius3) | [start here](https://www.cti.gov.br/en/node/111) | [GPLv2](https://github.com/invesalius/invesalius3/blob/master/LICENSE.txt) | Needs translations |
 
+### Science and Mathematics
+| Name                                           | Language | Contribute                                                          | License                                            | Additional Info |
+| ---------------------------------------------- | -------- | ------------------------------------------------------------------- | -------------------------------------------------- | --------------- |
+| [Octave](https://www.gnu.org/software/octave/) | C++      | [start here](https://www.gnu.org/software/octave/get-involved.html) | [GPLv3](https://www.gnu.org/licenses/gpl-3.0.html) |                 |
+
 ### Video Editing Software
 
 | Name                                | Language                                            | Contribute                                                     | License                                                               | Additional Info                                        |

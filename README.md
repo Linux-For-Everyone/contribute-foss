@@ -217,6 +217,7 @@ Before you start, please read our [contributor guidelines](CONTRIBUTING.md)!
 - [GPU Drivers](applications.md#gpu-drivers)
 - [GPU Utilities](applications.md#gpu-utilities)
 - [Medical Imaging](applications.md#medical-imaging)
+- [Science and Mathematics](applications.md#science-and-mathematics)
 - [Video Editing Software](applications.md#video-editing-software)
 - [Web Browser](applications.md#web-browser)
 - [Window Managers](applications.md#window-managers)
