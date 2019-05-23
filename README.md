@@ -219,8 +219,10 @@ Before you start, please read our [contributor guidelines](CONTRIBUTING.md)!
 - [Medical Imaging](applications.md#medical-imaging)
 - [Video Editing Software](applications.md#video-editing-software)
 - [Web Browser](applications.md#web-browser)
+- [Window Managers](applications.md#window-managers)
 
 #### [Server](applications.md#server)
 
 - [Ad-blocking](applications.md#ad-blocking)
 - [Business Suite](applications.md#business-suite)
+- [Internet Traffic Cache](applications.md#internet-traffic-cache)

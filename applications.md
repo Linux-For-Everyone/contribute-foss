@@ -58,6 +58,13 @@
 | ------------------------------------------ | --------------------- | ------------------------------------------------- | ----------------------------------------------------------- | ----------------------------------------------- |
 | [Mozilla Firefox](https://www.mozilla.org) | C++/Rust/Python/Java  | [Start here](https://wiki.mozilla.org/Contribute) | [Mozilla Public License](https://www.mozilla.org/en-US/MPL) | Coding, Testing, Localization, Helping, Writing |
 
+### Window Managers
+
+| Name                                            | Language | Contribute                                                | License                                                                           | Additional Info |
+| ----------------------------------------------- | -------- | --------------------------------------------------------- | --------------------------------------------------------------------------------- | --------------- |
+| [awesome](https://awesomewm.org/)               | C        | [start here](https://awesomewm.org/)                      | [GPLv2](https://github.com/awesomeWM/awesome/blob/master/LICENSE)                 |                 |
+| [Enlightenment](https://www.enlightenment.org/) | C        | [start here](https://www.enlightenment.org/contrib/start) | [BSD 2-clause](https://git.enlightenment.org/core/enlightenment.git/tree/COPYING) |                 |
+
 ## Server
 
 ### Ad-blocking
@@ -71,3 +78,10 @@
 | Name                           | Language                             | Contribute                                       | License                                                        | Additional Info                                                                            |
 | ------------------------------ | ------------------------------------ | ------------------------------------------------ | -------------------------------------------------------------- | ------------------------------------------------------------------------------------------ |
 | [Odoo](https://www.odoo.com)  | JavaScript/Python/Java/CSS/HTML/Shell | [start here](https://github.com/odoo/odoo)       | [LGPLv3](https://github.com/odoo/odoo/blob/master/LICENSE)     | [Community](https://www.odoo.com/page/community), [Pricing](https://www.odoo.com/pricing)  |
+
+### Internet Traffic Cache
+
+| Name                                                 | Language                             | Contribute                                             | License                                                             | Additional Info                                                                            |
+| ---------------------------------------------------- | ------------------------------------ | ------------------------------------------------------ | ------------------------------------------------------------------- | ------------------------------------------------------------------------------------------ |
+| [NetCache](https://github.com/MacGyverBass/netcache) | Shell/Dockerfile/Awk                 | [start here](https://github.com/MacGyverBass/netcache) | [MIT](https://github.com/MacGyverBass/netcache/blob/master/LICENSE) | [Docker Image](https://hub.docker.com/r/macgyverbass/netcache)                             |
+| [SteamCache](https://steamcache.github.io/)          | Shell/Dockerfile                     | [start here](https://github.com/steamcache)            | [MIT](https://github.com/steamcache/monolithic/blob/master/LICENSE) | [Docker Images](https://hub.docker.com/u/steamcache)                                       |
