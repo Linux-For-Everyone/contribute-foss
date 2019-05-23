@@ -10,8 +10,10 @@ But before you contribute, please read our guidelines carefully.
 5. Create a [pull request](https://help.github.com/en/articles/creating-a-pull-request-from-a-fork)
 
 
-### Steps to your contributing (CLI)
+### Steps to contributing (CLI)
+<!--
 SOMEBODY PROOFREAD THIS PLEASE
+-->
 1. Create a GitHub account
 2. Install `git` via your package manager
 3. (optional) [add SSH keys](https://help.github.com/en/articles/adding-a-new-ssh-key-to-your-github-account) to your account
