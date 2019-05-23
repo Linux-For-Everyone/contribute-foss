@@ -217,6 +217,7 @@ We're collecting all the "Get Involved" links we can find for desktop Linux dist
 - [Medical Imaging](applications.md#medical-imaging)
 - [Video Editing Software](applications.md#video-editing-software)
 - [Web Browser](applications.md#web-browser)
+- [Window Managers](applications.md#window-managers)
 
 #### [Server](applications.md#server)
 
