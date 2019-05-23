@@ -222,3 +222,4 @@ We're collecting all the "Get Involved" links we can find for desktop Linux dist
 
 - [Ad-blocking](applications.md#ad-blocking)
 - [Business Suite](applications.md#business-suite)
+- [Internet Traffic Cache](applications.md#internet-traffic-cache)
