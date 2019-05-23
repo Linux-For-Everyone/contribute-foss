@@ -9,6 +9,12 @@
 
 ## Desktop
 
+### Compatibility Layer
+
+| Name                                        | Language                                            | Contribute                                                 | License                                                                                              | Additional Info |
+| ------------------------------------------- | --------------------------------------------------- | ---------------------------------------------------------- | ---------------------------------------------------------------------------------------------------- | --------------- |
+| [WINE](https://www.winehq.org/)             | C/Yacc/JavaScript/Objective-C/Perl                  | [start here](https://wiki.winehq.org/Main_Page#Contribute) | [LGPLv2.1+](https://wiki.winehq.org/Licensing)                                                       |                 |
+
 ### Design Software
 
 | Name                                        | Language                                            | Contribute                                           | License                                                                                              | Additional Info |

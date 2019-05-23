@@ -212,6 +212,7 @@ Before you start, please read our [contributor guidelines](CONTRIBUTING.md)!
 
 #### [Desktop](applications.md#desktop)
 
+- [Compatibility Layer](applications.md#compatibility-layer)
 - [Design Software](applications.md#design-software)
 - [Game Development](applications.md#game-development)
 - [GPU Drivers](applications.md#gpu-drivers)
