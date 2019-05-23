@@ -162,6 +162,8 @@ You may think a few bucks doesn't make a difference. It does when that's multipl
 
 We're collecting all the "Get Involved" links we can find for desktop Linux distros, desktop environments, and FOSS software projects. This is obviously not comprehensive, but hopefully can be your gateway to making a difference. And hey, many of these pages probably need updates, too. You can even help with *that*!
 
+Before you start, please read our [contributor guidelines](CONTRIBUTING.md)!
+
 (Distro and FOSS software teams: if you don't have one of these pages, you need one.)
 
 ### Operating Systems
