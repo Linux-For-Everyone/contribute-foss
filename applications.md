@@ -46,9 +46,10 @@
 | [InVesalius](https://www.cti.gov.br/en/invesalius) | [Python](https://github.com/invesalius/invesalius3) | [start here](https://www.cti.gov.br/en/node/111) | [GPLv2](https://github.com/invesalius/invesalius3/blob/master/LICENSE.txt) | Needs translations |
 
 ### Science and Mathematics
-| Name                                           | Language | Contribute                                                          | License                                            | Additional Info |
-| ---------------------------------------------- | -------- | ------------------------------------------------------------------- | -------------------------------------------------- | --------------- |
-| [Octave](https://www.gnu.org/software/octave/) | C++      | [start here](https://www.gnu.org/software/octave/get-involved.html) | [GPLv3](https://www.gnu.org/licenses/gpl-3.0.html) |                 |
+| Name                                           | Language | Contribute                                                          | License                                                                                   | Additional Info |
+| ---------------------------------------------- | -------- | ------------------------------------------------------------------- | ----------------------------------------------------------------------------------------- | --------------- |
+| [Gnuplot](http://www.gnuplot.info/)            | C        | [start here](http://www.gnuplot.info/faq/faq.html#x1-710007.7)      | [Custom license](https://sourceforge.net/p/gnuplot/gnuplot-main/ci/master/tree/Copyright) |                 |
+| [Octave](https://www.gnu.org/software/octave/) | C++      | [start here](https://www.gnu.org/software/octave/get-involved.html) | [GPLv3](https://www.gnu.org/licenses/gpl-3.0.html)                                        |                 |
 
 ### Video Editing Software
 
