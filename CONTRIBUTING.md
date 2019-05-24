@@ -47,6 +47,16 @@ Before you contribute, please read our guidelines carefully.
 
 Here is a short tutorial from Michael Tunnel <a href="http://www.youtube.com/watch?v=C5WxrnRVmuY"><img src="http://i.ytimg.com/vi/C5WxrnRVmuY/maxresdefault.jpg" width="560" height="315" /></a>
 
+#### Steps to syncing with upstream repository (GUI)
+
+1. Install [Tampermonkey](https://www.tampermonkey.net/).
+2. Install [GitHub one-click sync fork](https://greasyfork.org/en/scripts/373744-github-one-click-sync-fork) Tampermonkey script.
+3. Click on the *Update fork from <upstream_branch>* button that is now next to the Branch drop-down menu on **your** forked repository page.
+
+    - Authorize **one-click sync fork** if this is your first time using it. If need be, review the [script's code](https://greasyfork.org/en/scripts/373744-github-one-click-sync-fork/code).
+
+4. Using the *Update fork from <upstream_branch>* will delete any changes that you have made to the fork and will sync all the commits from the upstream branch.
+
 #### Steps to syncing with upstream repository (CLI)
 
 1. Add a new remote for upstream repository with this command:
