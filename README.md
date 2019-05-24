@@ -177,7 +177,6 @@ Before you start, please read our [contributor guidelines](CONTRIBUTING.md)!
   - [What can I do for Fedora?](https://whatcanidoforfedora.org/)
   - [Join Fedora](https://fedoraproject.org/wiki/Join)
   - [Contributing to Fedora](https://ask.fedoraproject.org/c/community/contributing-to-fedora) on [Ask Fedora](https://ask.fedoraproject.org/)
-- [FreeBSD](https://www.freebsdfoundation.org/get-involved/join-the-community/)
 - [Gentoo](https://wiki.gentoo.org/wiki/Contributing_to_Gentoo)
 - [Linux Mint](https://linuxmint.com/getinvolved.php)
 - [Lubuntu](https://lubuntu.me/links/)
