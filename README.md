@@ -173,7 +173,10 @@ Before you start, please read our [contributor guidelines](CONTRIBUTING.md)!
 - [Arch](https://wiki.archlinux.org/index.php/getting_involved)
 - [Debian](https://www.debian.org/intro/help)
 - [elementary OS](https://elementary.io/get-involved#support)
-- [Fedora](https://fedoraproject.org/wiki/Join)
+- Fedora Project
+    - [What can I do for Fedora?](https://whatcanidoforfedora.org/)
+    - [Join Fedora](https://fedoraproject.org/wiki/Join)
+    - [Contributing to Fedora](https://ask.fedoraproject.org/c/community/contributing-to-fedora) on [Ask Fedora](https://ask.fedoraproject.org/)
 - [FreeBSD](https://www.freebsdfoundation.org/get-involved/join-the-community/)
 - [Gentoo](https://wiki.gentoo.org/wiki/Contributing_to_Gentoo)
 - [Linux Mint](https://linuxmint.com/getinvolved.php)
