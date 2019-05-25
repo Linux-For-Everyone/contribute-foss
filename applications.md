@@ -25,6 +25,11 @@
 | [Inkscape](https://inkscape.org)            | [C++](https://gitlab.com/inkscape/inkscape)         | [start here](https://inkscape.org/contribute/)       | [GPLv2, GPLv3, LGPLv2.1, LGPLv3, MPLv1.1](https://gitlab.com/inkscape/inkscape/tree/master/LICENSES) | ADD             |
 | [Krita](https://krita.org/)                 | [C++](https://github.com/KDE/krita)                 | [start here](en/get-involved/overview)               | [GPLv3](https://github.com/KDE/krita/blob/master/COPYING)                                            | ADD             |
 
+### Development
+
+| Name                        | Language            | Contribute                                  | License                                                          | Additional Info |
+| [Git](https://git-scm.com/) | C/Perl/Tcl/Assembly | [start here](https://git-scm.com/community) | [GPLv2](https://git.kernel.org/pub/scm/git/git.git/tree/COPYING) |                 |
+
 ### Game Development
 
 | Name                                     | Language                                    | Contribute                                                                                          | License                                     | Additional Info                            |

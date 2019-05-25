@@ -218,6 +218,7 @@ Before you start, please read our [contributor guidelines](CONTRIBUTING.md)!
 
 - [Compatibility Layer](applications.md#compatibility-layer)
 - [Design Software](applications.md#design-software)
+- [Development](applications.md#development)
 - [Game Development](applications.md#game-development)
 - [GPU Drivers](applications.md#gpu-drivers)
 - [GPU Utilities](applications.md#gpu-utilities)
