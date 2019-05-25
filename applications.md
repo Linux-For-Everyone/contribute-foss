@@ -27,10 +27,11 @@
 
 ### Development
 
-| Name                                           | Language            | Contribute                                        | License                                                                 | Additional Info                                                                |
-| [GCC](https://gcc.gnu.org/)                    | C/C++               | [start here](https://gcc.gnu.org/contribute.html) | [GPLv3](https://gcc.gnu.org/viewcvs/gcc/trunk/include/COPYING3?view=co) | Also [donations](https://my.fsf.org/civicrm/contribute/transact?reset=1&id=57) |
-| [Git](https://git-scm.com/)                    | C/Perl/Tcl/Assembly | [start here](https://git-scm.com/community)       | [GPLv2](https://git.kernel.org/pub/scm/git/git.git/tree/COPYING)        |                                                                                |
-| [GNU Make](https://www.gnu.org/software/make/) | C                   | [start here](https://www.gnu.org/software/make/)  | [GPLv3](https://git.savannah.gnu.org/cgit/make.git/tree/COPYING)        |                                                                                |
+| Name                                           | Language            | Contribute                                                                 | License                                                                    | Additional Info                                                                |
+| [GCC](https://gcc.gnu.org/)                    | C/C++               | [start here](https://gcc.gnu.org/contribute.html)                          | [GPLv3](https://gcc.gnu.org/viewcvs/gcc/trunk/include/COPYING3?view=co)    | Also [donations](https://my.fsf.org/civicrm/contribute/transact?reset=1&id=57) |
+| [Git](https://git-scm.com/)                    | C/Perl/Tcl/Assembly | [start here](https://git-scm.com/community)                                | [GPLv2](https://git.kernel.org/pub/scm/git/git.git/tree/COPYING)           |                                                                                |
+| [GNU Make](https://www.gnu.org/software/make/) | C                   | [start here](https://www.gnu.org/software/make/)                           | [GPLv3](https://git.savannah.gnu.org/cgit/make.git/tree/COPYING)           |                                                                                |
+| [Gradle](https://gradle.org/)                  | Java/Groovy/Kotlin  | [start here](https://github.com/gradle/gradle/blob/master/CONTRIBUTING.md) | [Apache License 2.0](https://github.com/gradle/gradle/blob/master/LICENSE) |                                                                                |
 
 ### Game Development
 
