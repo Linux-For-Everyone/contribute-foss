@@ -11,9 +11,9 @@
 
 ### Compatibility Layer
 
-| Name                                        | Language                                            | Contribute                                                 | License                                                                                              | Additional Info |
-| ------------------------------------------- | --------------------------------------------------- | ---------------------------------------------------------- | ---------------------------------------------------------------------------------------------------- | --------------- |
-| [WINE](https://www.winehq.org/)             | C/Yacc/JavaScript/Objective-C/Perl                  | [start here](https://wiki.winehq.org/Main_Page#Contribute) | [LGPLv2.1+](https://wiki.winehq.org/Licensing)                                                       |                 |
+| Name                            | Language                           | Contribute                                                 | License                                        | Additional Info |
+| ------------------------------- | ---------------------------------- | ---------------------------------------------------------- | ---------------------------------------------- | --------------- |
+| [WINE](https://www.winehq.org/) | C/Yacc/JavaScript/Objective-C/Perl | [start here](https://wiki.winehq.org/Main_Page#Contribute) | [LGPLv2.1+](https://wiki.winehq.org/Licensing) |                 |
 
 ### Design Software
 
@@ -53,37 +53,38 @@
 
 ### Office Suite
 
-| Name                                               | Language                                            | Contribute                                                          | License                                                                       | Additional Info                                          |
-| -------------------------------------------------- | --------------------------------------------------- | ------------------------------------------------------------------- | ----------------------------------------------------------------------------- | -------------------------------------------------------- |
-| [LibreOffice](https://www.libreoffice.org)         | C++/XML/Java                                        | [start here](https://www.libreoffice.org/community/get-involved)    | [Mozilla Public License v2.0](https://www.libreoffice.org/about-us/licenses)  | [Donations welcome](https://www.libreoffice.org/donate)  |
+| Name                                       | Language     | Contribute                                                       | License                                                                      | Additional Info                                         |
+| ------------------------------------------ | ------------ | ---------------------------------------------------------------- | ---------------------------------------------------------------------------- | ------------------------------------------------------- |
+| [LibreOffice](https://www.libreoffice.org) | C++/XML/Java | [start here](https://www.libreoffice.org/community/get-involved) | [Mozilla Public License v2.0](https://www.libreoffice.org/about-us/licenses) | [Donations welcome](https://www.libreoffice.org/donate) |
 
 ### Science and Mathematics
 
-| Name                                           | Language | Contribute                                                          | License                                                                                   | Additional Info                                                                                                                                                                                                                                                                                    |
-| ---------------------------------------------- | -------- | ------------------------------------------------------------------- | ----------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [Gnuplot](http://www.gnuplot.info/)            | C        | [start here](http://www.gnuplot.info/faq/faq.html#x1-710007.7)      | [Custom license](https://sourceforge.net/p/gnuplot/gnuplot-main/ci/master/tree/Copyright) |                                                                                                                                                                                                                                                                                                    |
+| Name                                           | Language | Contribute                                                          | License                                                                                   | Additional Info                                                                                     |
+| ---------------------------------------------- | -------- | ------------------------------------------------------------------- | ----------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------- |
+| [Gnuplot](http://www.gnuplot.info/)            | C        | [start here](http://www.gnuplot.info/faq/faq.html#x1-710007.7)      | [Custom license](https://sourceforge.net/p/gnuplot/gnuplot-main/ci/master/tree/Copyright) |                                                                                                     |
 | [Octave](https://www.gnu.org/software/octave/) | C++      | [start here](https://www.gnu.org/software/octave/get-involved.html) | [GPLv3](https://www.gnu.org/licenses/gpl-3.0.html)                                        |                                                                                                     |
 | [SageMath](http://www.sagemath.org/)           | Python   | [start here](https://doc.sagemath.org/html/en/developer/index.html) | [GPLv3](https://git.sagemath.org/sage.git/tree/COPYING.txt)                               | [Also donations](https://secure.gifts.washington.edu/as_mathematics/gift.asp?page=make&Code=MATSAG) |
 
 ### Video Editing Software
 
-| Name                                | Language                                            | Contribute                                                     | License                                                               | Additional Info                                        |
-| ----------------------------------- | --------------------------------------------------- | -------------------------------------------------------------- | --------------------------------------------------------------------- | ------------------------------------------------------ |
-| [KdenLive](https://kdenlive.org/en) | C++/Qml                                             | [start here](https://kdenlive.org/en/developers-welcome/#)     | [GPLv2](https://www.gnu.org/licenses/old-licenses/gpl-2.0.txt)        | Donations, Developers, Bug Triaging, Donations Welcome |
-| [Openshot](https://openshot.org/)   | [C++](https://github.com/OpenShot?language=c%2B%2B) | [start here](https://www.openshot.org/donate/)                 | [GPLv3](https://github.com/OpenShot/openshot-qt/blob/develop/COPYING) | Donations welcome                                      |
+| Name                                | Language                                            | Contribute                                                 | License                                                               | Additional Info                                        |
+| ----------------------------------- | --------------------------------------------------- | ---------------------------------------------------------- | --------------------------------------------------------------------- | ------------------------------------------------------ |
+| [KdenLive](https://kdenlive.org/en) | C++/Qml                                             | [start here](https://kdenlive.org/en/developers-welcome/#) | [GPLv2](https://www.gnu.org/licenses/old-licenses/gpl-2.0.txt)        | Donations, Developers, Bug Triaging, Donations Welcome |
+| [Openshot](https://openshot.org/)   | [C++](https://github.com/OpenShot?language=c%2B%2B) | [start here](https://www.openshot.org/donate/)             | [GPLv3](https://github.com/OpenShot/openshot-qt/blob/develop/COPYING) | Donations welcome                                      |
 
 ### Web Browser
 
-| Name                                       | Language              | Contribute                                        | License                                                     | Additional Info                                 |
-| ------------------------------------------ | --------------------- | ------------------------------------------------- | ----------------------------------------------------------- | ----------------------------------------------- |
-| [Mozilla Firefox](https://www.mozilla.org) | C++/Rust/Python/Java  | [Start here](https://wiki.mozilla.org/Contribute) | [Mozilla Public License](https://www.mozilla.org/en-US/MPL) | Coding, Testing, Localization, Helping, Writing |
+| Name                                       | Language             | Contribute                                        | License                                                     | Additional Info                                 |
+| ------------------------------------------ | -------------------- | ------------------------------------------------- | ----------------------------------------------------------- | ----------------------------------------------- |
+| [Mozilla Firefox](https://www.mozilla.org) | C++/Rust/Python/Java | [start here](https://wiki.mozilla.org/Contribute) | [Mozilla Public License](https://www.mozilla.org/en-US/MPL) | Coding, Testing, Localization, Helping, Writing |
 
 ### Window Managers
 
-| Name                                            | Language | Contribute                                                | License                                                                           | Additional Info |
-| ----------------------------------------------- | -------- | --------------------------------------------------------- | --------------------------------------------------------------------------------- | --------------- |
-| [awesome](https://awesomewm.org/)               | C        | [start here](https://awesomewm.org/)                      | [GPLv2](https://github.com/awesomeWM/awesome/blob/master/LICENSE)                 |                 |
-| [Enlightenment](https://www.enlightenment.org/) | C        | [start here](https://www.enlightenment.org/contrib/start) | [BSD 2-clause](https://git.enlightenment.org/core/enlightenment.git/tree/COPYING) |                 |
+| Name                                            | Language | Contribute                                                               | License                                                                           | Additional Info |
+| ----------------------------------------------- | -------- | ------------------------------------------------------------------------ | --------------------------------------------------------------------------------- | --------------- |
+| [awesome](https://awesomewm.org/)               | C        | [start here](https://awesomewm.org/)                                     | [GPLv2](https://github.com/awesomeWM/awesome/blob/master/LICENSE)                 |                 |
+| [Enlightenment](https://www.enlightenment.org/) | C        | [start here](https://www.enlightenment.org/contrib/start)                | [BSD 2-clause](https://git.enlightenment.org/core/enlightenment.git/tree/COPYING) |                 |
+| [Qtile](http://www.qtile.org/)                  | Python   | [start here](https://github.com/qtile/qtile/blob/master/CONTRIBUTING.md) | [MIT](https://github.com/qtile/qtile/blob/master/LICENSE)                         |                 |
 
 ## Server
 
@@ -95,13 +96,13 @@
 
 ### Business Suite
 
-| Name                           | Language                             | Contribute                                       | License                                                        | Additional Info                                                                            |
-| ------------------------------ | ------------------------------------ | ------------------------------------------------ | -------------------------------------------------------------- | ------------------------------------------------------------------------------------------ |
-| [Odoo](https://www.odoo.com)  | JavaScript/Python/Java/CSS/HTML/Shell | [start here](https://github.com/odoo/odoo)       | [LGPLv3](https://github.com/odoo/odoo/blob/master/LICENSE)     | [Community](https://www.odoo.com/page/community), [Pricing](https://www.odoo.com/pricing)  |
+| Name                         | Language                              | Contribute                                 | License                                                    | Additional Info                                                                           |
+| ---------------------------- | ------------------------------------- | ------------------------------------------ | ---------------------------------------------------------- | ----------------------------------------------------------------------------------------- |
+| [Odoo](https://www.odoo.com) | JavaScript/Python/Java/CSS/HTML/Shell | [start here](https://github.com/odoo/odoo) | [LGPLv3](https://github.com/odoo/odoo/blob/master/LICENSE) | [Community](https://www.odoo.com/page/community), [Pricing](https://www.odoo.com/pricing) |
 
 ### Internet Traffic Cache
 
-| Name                                                 | Language                             | Contribute                                             | License                                                             | Additional Info                                                                            |
-| ---------------------------------------------------- | ------------------------------------ | ------------------------------------------------------ | ------------------------------------------------------------------- | ------------------------------------------------------------------------------------------ |
-| [NetCache](https://github.com/MacGyverBass/netcache) | Shell/Dockerfile/Awk                 | [start here](https://github.com/MacGyverBass/netcache) | [MIT](https://github.com/MacGyverBass/netcache/blob/master/LICENSE) | [Docker Image](https://hub.docker.com/r/macgyverbass/netcache)                             |
-| [SteamCache](https://steamcache.github.io/)          | Shell/Dockerfile                     | [start here](https://github.com/steamcache)            | [MIT](https://github.com/steamcache/monolithic/blob/master/LICENSE) | [Docker Images](https://hub.docker.com/u/steamcache)                                       |
+| Name                                                 | Language             | Contribute                                             | License                                                             | Additional Info                                                |
+| ---------------------------------------------------- | -------------------- | ------------------------------------------------------ | ------------------------------------------------------------------- | -------------------------------------------------------------- |
+| [NetCache](https://github.com/MacGyverBass/netcache) | Shell/Dockerfile/Awk | [start here](https://github.com/MacGyverBass/netcache) | [MIT](https://github.com/MacGyverBass/netcache/blob/master/LICENSE) | [Docker Image](https://hub.docker.com/r/macgyverbass/netcache) |
+| [SteamCache](https://steamcache.github.io/)          | Shell/Dockerfile     | [start here](https://github.com/steamcache)            | [MIT](https://github.com/steamcache/monolithic/blob/master/LICENSE) | [Docker Images](https://hub.docker.com/u/steamcache)           |
