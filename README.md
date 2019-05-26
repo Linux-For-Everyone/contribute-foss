@@ -158,6 +158,8 @@ Perhaps the most obvious -- and for some the easiest -- way to contribute is wit
 
 You may think a few bucks doesn't make a difference. It does when that's multiplied by hundreds or thousands of people giving a small one-time donation.
 
+If you're not sure where to donate or if it's a hassle to donate to different projects every month, consider becoming a supporter of the [Software Freedom Conservancy](https://sfconservancy.org/). They provide infrastructure and support to [a ton of important FLOSS projects](https://sfconservancy.org/projects/current/).
+
 ## Awesome Links: Get Involved
 
 We're collecting all the "Get Involved" links we can find for desktop Linux distros, desktop environments, and FOSS software projects. This is obviously not comprehensive, but hopefully can be your gateway to making a difference. And hey, many of these pages probably need updates, too. You can even help with *that*!
@@ -233,3 +235,7 @@ Before you start, please read our [contributor guidelines](CONTRIBUTING.md)!
 - [Ad-blocking](applications.md#ad-blocking)
 - [Business Suite](applications.md#business-suite)
 - [Internet Traffic Cache](applications.md#internet-traffic-cache)
+
+## Other Links
+
+The website [Open Source Guides](https://opensource.guide/) is a collection of resources curated by GitHub about running and contributing to FLOSS projects. The website includes a page about "[How to Contribute to Open Source](https://opensource.guide/how-to-contribute/)," which is another good reference in addition to this project.
