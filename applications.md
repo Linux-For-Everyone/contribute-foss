@@ -93,7 +93,9 @@
 | ----------------------------------------------- | -------- | ------------------------------------------------------------------------ | --------------------------------------------------------------------------------- | --------------- |
 | [awesome](https://awesomewm.org/)               | C        | [start here](https://awesomewm.org/)                                     | [GPLv2](https://github.com/awesomeWM/awesome/blob/master/LICENSE)                 |                 |
 | [Enlightenment](https://www.enlightenment.org/) | C        | [start here](https://www.enlightenment.org/contrib/start)                | [BSD 2-clause](https://git.enlightenment.org/core/enlightenment.git/tree/COPYING) |                 |
+| [i3](https://i3wm.org/)                         | C        | [start here](https://github.com/i3/i3/blob/next/.github/CONTRIBUTING.md) | [BSD](https://github.com/i3/i3/blob/next/LICENSE)                                 |                 |
 | [Qtile](http://www.qtile.org/)                  | Python   | [start here](https://github.com/qtile/qtile/blob/master/CONTRIBUTING.md) | [MIT](https://github.com/qtile/qtile/blob/master/LICENSE)                         |                 |
+| [sway](https://swaywm.org/)                     | C        | [start here](https://github.com/swaywm/sway/blob/master/CONTRIBUTING.md) | [MIT](https://github.com/swaywm/sway/blob/master/LICENSE)                         |                 |
 
 ## Server
 
