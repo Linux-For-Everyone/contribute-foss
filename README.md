@@ -22,6 +22,7 @@
     - [Applications](#applications)
       - [Desktop](#desktop)
       - [Server](#server)
+  - [Other Links](#other-links)
 
 ## Background
 
