@@ -113,6 +113,12 @@
 | ---------------------------- | ------------------------------------- | ------------------------------------------ | ---------------------------------------------------------- | ----------------------------------------------------------------------------------------- |
 | [Odoo](https://www.odoo.com) | JavaScript/Python/Java/CSS/HTML/Shell | [start here](https://github.com/odoo/odoo) | [LGPLv3](https://github.com/odoo/odoo/blob/master/LICENSE) | [Community](https://www.odoo.com/page/community), [Pricing](https://www.odoo.com/pricing) |
 
+### Calendar
+
+| Name                                        | Language                          | Contribute                                            | License                                                              | Additional Info                                                                           |
+| ------------------------------------------- | --------------------------------- | ----------------------------------------------------- | -------------------------------------------------------------------- | ----------------------------------------------------------------------------------------- |
+| [WebCalendar](http://k5n.us/wp/webcalendar) | PHP/JavaScript/Java/HTML/CSS/Perl | [start here](https://github.com/craigk5n/webcalendar) | [GPLv2](https://github.com/craigk5n/webcalendar/blob/master/LICENSE) |                                                                                           |
+
 ### Internet Traffic Cache
 
 | Name                                                 | Language             | Contribute                                             | License                                                             | Additional Info                                                |
