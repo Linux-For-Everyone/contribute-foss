@@ -33,12 +33,14 @@
 | [Git](https://git-scm.com/)                    | C/Perl/Tcl/Assembly | [start here](https://git-scm.com/community)                                | [GPLv2](https://git.kernel.org/pub/scm/git/git.git/tree/COPYING)           |                                                                                |
 | [GNU Make](https://www.gnu.org/software/make/) | C                   | [start here](https://www.gnu.org/software/make/)                           | [GPLv3](https://git.savannah.gnu.org/cgit/make.git/tree/COPYING)           |                                                                                |
 | [Gradle](https://gradle.org/)                  | Java/Groovy/Kotlin  | [start here](https://github.com/gradle/gradle/blob/master/CONTRIBUTING.md) | [Apache License 2.0](https://github.com/gradle/gradle/blob/master/LICENSE) |                                                                                |
+| [Vim](https://vim.org)                         | C / Vim Script      | [start here](https://www.vim.org/community.php)                            | [Help the Ugandan orphans!](https://iccf-holland.org/click1.html)          |
 
 ### Game Development
 
 | Name                                     | Language                                    | Contribute                                                                                          | License                                     | Additional Info                            |
 | ---------------------------------------- | ------------------------------------------- | --------------------------------------------------------------------------------------------------- | ------------------------------------------- | ------------------------------------------ |
 | [Godot Engine](https://godotengine.org/) | [C++](https://github.com/godotengine/godot) | [start here](https://docs.godotengine.org/en/latest/community/contributing/ways_to_contribute.html) | [MIT](https://github.com/godotengine/godot) | Also documentation, translation, donations |
+| [Amethyst](https://amethyst.rs)          | Rust                                        | [start here](https://amethyst.rs/donate)                                                            | MIT / Apache 2.0                            | Needs documentation and tutorials          |
 
 ### GPU Drivers
 
@@ -83,9 +85,9 @@
 
 ### Web Browser
 
-| Name                                       | Language             | Contribute                                        | License                                                     | Additional Info                                 |
-| ------------------------------------------ | -------------------- | ------------------------------------------------- | ----------------------------------------------------------- | ----------------------------------------------- |
-| [Mozilla Firefox](https://www.mozilla.org) | C++/Rust/Python/Java | [start here](https://wiki.mozilla.org/Contribute) | [Mozilla Public License](https://www.mozilla.org/en-US/MPL) | Coding, Testing, Localization, Helping, Writing |
+| Name                                       | Language                   | Contribute                                        | License                                                     | Additional Info                                 |
+| ------------------------------------------ | -------------------------- | ------------------------------------------------- | ----------------------------------------------------------- | ----------------------------------------------- |
+| [Mozilla Firefox](https://www.mozilla.org) | C++/Rust/Python/Javascript | [start here](https://wiki.mozilla.org/Contribute) | [Mozilla Public License](https://www.mozilla.org/en-US/MPL) | Coding, Testing, Localization, Helping, Writing |
 
 ### Window Managers
 
