@@ -22,6 +22,7 @@
     - [Applications](#applications)
       - [Desktop](#desktop)
       - [Server](#server)
+  - [Other Links](#other-links)
 
 ## Background
 
@@ -235,6 +236,7 @@ Before you start, please read our [contributor guidelines](CONTRIBUTING.md)!
 - [Ad-blocking](applications.md#ad-blocking)
 - [Business Suite](applications.md#business-suite)
 - [Internet Traffic Cache](applications.md#internet-traffic-cache)
+- [Productivity Suite](applications.md#productivity-suite)
 
 ## Other Links
 
