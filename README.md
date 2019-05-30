@@ -237,6 +237,7 @@ Before you start, please read our [contributor guidelines](CONTRIBUTING.md)!
 - [Business Suite](applications.md#business-suite)
 - [Calendar](applications.md#calendar)
 - [Internet Traffic Cache](applications.md#internet-traffic-cache)
+- [Productivity Suite](applications.md#productivity-suite)
 
 ## Other Links
 
