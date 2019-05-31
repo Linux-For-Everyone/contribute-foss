@@ -238,6 +238,7 @@ Before you start, please read our [contributor guidelines](CONTRIBUTING.md)!
 - [Calendar](applications.md#calendar)
 - [Internet Traffic Cache](applications.md#internet-traffic-cache)
 - [Productivity Suite](applications.md#productivity-suite)
+- [Software Development Suite](applications.md#software-development-suite)
 
 ## Other Links
 
