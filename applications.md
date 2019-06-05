@@ -35,6 +35,12 @@
 | [GNU Make](https://www.gnu.org/software/make/) | C                   | [start here](https://www.gnu.org/software/make/)                           | [GPLv3](https://git.savannah.gnu.org/cgit/make.git/tree/COPYING)                 |                                                                                |
 | [Gradle](https://gradle.org/)                  | Java/Groovy/Kotlin  | [start here](https://github.com/gradle/gradle/blob/master/CONTRIBUTING.md) | [Apache License 2.0](https://github.com/gradle/gradle/blob/master/LICENSE)       |                                                                                |
 
+### Disk Cleaner
+
+| Name                                           | Language            | Contribute                                                                 | License                                                                          | Additional Info                                                                                                                                           |
+| ---------------------------------------------- | ------------------- | -------------------------------------------------------------------------- | -------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [BleachBit](https://www.bleachbit.org/)        | Python/NSIS         | [start here](https://www.bleachbit.org/contribute)                         | [GPLv3](https://github.com/bleachbit/bleachbit/blob/master/COPYING)              | [Donations welcome](https://www.paypal.com/donate/?token=OSJrsJDovmiup5Lr345GYYkOWrs4OoKKoVlksActwEZjTbGBFD8eIrd03HNGYO48cQp3Fm&country.x=US&locale.x=US) |
+
 ### Game Development
 
 | Name                                     | Language                                    | Contribute                                                                                          | License                                     | Additional Info                            |
