@@ -173,6 +173,7 @@ Before you start, please read our [contributor guidelines](CONTRIBUTING.md)!
 
 #### Linux Distributions
 
+- [Alpine Linux](https://wiki.alpinelinux.org/wiki/Alpine_Linux:Contribute)
 - [Arch](https://wiki.archlinux.org/index.php/getting_involved)
 - [Debian](https://www.debian.org/intro/help)
 - [elementary OS](https://elementary.io/get-involved#support)
