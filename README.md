@@ -22,6 +22,7 @@
     - [Applications](#applications)
       - [Desktop](#desktop)
       - [Server](#server)
+    - [Other Projects](#other-projects)
   - [Other Links](#other-links)
 
 ## Background
@@ -242,6 +243,14 @@ Before you start, please read our [contributor guidelines](CONTRIBUTING.md)!
 - [Internet Traffic Cache](applications.md#internet-traffic-cache)
 - [Productivity Suite](applications.md#productivity-suite)
 - [Software Development Suite](applications.md#software-development-suite)
+
+### Other Projects
+
+#### Common Voice
+
+[Common Voice](https://voice.mozilla.org) is a Mozilla initiative to build a free and open dataset that anyone can use to build speech and speaker recognition applications, such as a voice assistant. These types of applications rely on large datasets, so if you don't contribute to Common Voice, you're unlikely to see good free and open alternatives to Siri and Alexa anytime soon.
+
+Contributing to Common Voice is *really* easy. Just visit the project's website and then either speak and donate your voice or listen and validate others' voices. Consider spending an evening with your friends or organizing an event where everybody contributes to the project.
 
 ## Other Links
 
