@@ -23,6 +23,7 @@
       - [Desktop](#desktop)
       - [Server](#server)
     - [Other Projects](#other-projects)
+      - [Common Voice](#common-voice)
   - [Other Links](#other-links)
 
 ## Background
