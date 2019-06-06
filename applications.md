@@ -131,6 +131,12 @@
 | [NetCache](https://github.com/MacGyverBass/netcache) | Shell/Dockerfile/Awk | [start here](https://github.com/MacGyverBass/netcache) | [MIT](https://github.com/MacGyverBass/netcache/blob/master/LICENSE) | [Docker Image](https://hub.docker.com/r/macgyverbass/netcache) |
 | [SteamCache](https://steamcache.github.io/)          | Shell/Dockerfile     | [start here](https://github.com/steamcache)            | [MIT](https://github.com/steamcache/monolithic/blob/master/LICENSE) | [Docker Images](https://hub.docker.com/u/steamcache)           |
 
+### Password Manager
+
+| Name                               | Language                            | Contribute                                                  | License                                                                | Additional Info                                                                                                                                                                                                                 |
+| ---------------------------------- | ----------------------------------- | ----------------------------------------------------------- | ---------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [Passit](https://passit.io/)       | Python/HTML/Shell/Dockerfile        | [start here](https://passit.io/documentation/contributing/) | [AGPLv3](https://gitlab.com/passit/passit-backend/blob/master/LICENSE) | [Docker Image](https://hub.docker.com/r/passit/passit), [Firefox Extension](https://addons.mozilla.org/addon/passit_io/), [Chrome Extension](https://chrome.google.com/webstore/detail/passit/pgcleadjbkbghamecomebcdakdmahkeh) |
+
 ### Productivity Suite
 
 | Name                               | Language                            | Contribute                                     | License                                                          | Additional Info                                                                                                                                                                                               |
