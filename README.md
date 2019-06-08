@@ -242,6 +242,7 @@ Before you start, please read our [contributor guidelines](CONTRIBUTING.md)!
 - [Business Suite](applications.md#business-suite)
 - [Calendar](applications.md#calendar)
 - [Internet Traffic Cache](applications.md#internet-traffic-cache)
+- [Password Manger](applications.md#password-manager)
 - [Productivity Suite](applications.md#productivity-suite)
 - [Software Development Suite](applications.md#software-development-suite)
 
