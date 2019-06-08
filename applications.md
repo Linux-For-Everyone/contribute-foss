@@ -60,6 +60,12 @@
 | [radeon-profile](https://github.com/marazmista/radeon-profile) | [C++](https://github.com/marazmista/radeon-profile)    | [start here](https://github.com/marazmista/radeon-profile) | [GPLv2](https://github.com/marazmista/radeon-profile/blob/master/LICENSE) | ADD             |
 | [WattmanGRK](https://github.com/BoukeHaarsma23/WattmanGTK)     | [Python](https://github.com/BoukeHaarsma23/WattmanGTK) | [start here](https://github.com/BoukeHaarsma23/WattmanGTK) | [GPLv2](https://github.com/BoukeHaarsma23/WattmanGTK/blob/master/LICENSE) | ADD             |
 
+### Instant Messaging
+
+| Name                                               | Language                                             | Contribute                                                | License                                                                    | Additional Info                            |
+| -------------------------------------------------- | ---------------------------------------------------- | --------------------------------------------------------- | -------------------------------------------------------------------------- | ------------------------------------------ |
+| [Telegram](https://telegram.org/)                  | C++/Python/Objective-C++/Shell/Batchfile/Objective-C | [start here](https://github.com/telegramdesktop/tdesktop) | [GPLv3](https://github.com/telegramdesktop/tdesktop/blob/dev/LICENSE)      | [Telegram Apps](https://telegram.org/apps) |
+
 ### Medical Imaging
 
 | Name                                               | Language                                            | Contribute                                       | License                                                                    | Additional Info    |
