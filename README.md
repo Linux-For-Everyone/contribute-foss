@@ -233,6 +233,7 @@ Before you start, please read our [contributor guidelines](CONTRIBUTING.md)!
 - [Medical Imaging](applications.md#medical-imaging)
 - [Office Suite](applications.md#office-suite)
 - [Science and Mathematics](applications.md#science-and-mathematics)
+- [Trading Card Game Collection Manager](applications.md#trading-card-game-collection-manager)
 - [Video Editing Software](applications.md#video-editing-software)
 - [Web Browser](applications.md#web-browser)
 - [Window Managers](applications.md#window-managers)

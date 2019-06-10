@@ -87,6 +87,12 @@
 | [Octave](https://www.gnu.org/software/octave/) | C++      | [start here](https://www.gnu.org/software/octave/get-involved.html) | [GPLv3](https://www.gnu.org/licenses/gpl-3.0.html)                                        |                                                                                                     |
 | [SageMath](http://www.sagemath.org/)           | Python   | [start here](https://doc.sagemath.org/html/en/developer/index.html) | [GPLv3](https://git.sagemath.org/sage.git/tree/COPYING.txt)                               | [Also donations](https://secure.gifts.washington.edu/as_mathematics/gift.asp?page=make&Code=MATSAG) |
 
+### Trading Card Game Collection Manager
+
+| Name                                                                        | Language | Contribute                                                          | License                                                                                   | Additional Info                                                                                     |
+| --------------------------------------------------------------------------- | -------- | ------------------------------------------------------------------- | ----------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------- |
+| [Mtgdb.Gui](https://www.slightlymagic.net/forum/viewtopic.php?f=62&t=19299) | C#/HTML  | [start here](https://github.com/NikolayXHD/Mtgdb)                   | [GPLv3](https://github.com/NikolayXHD/Mtgdb/blob/master/LICENSE)                          | Windows only application                                                                            |
+
 ### Video Editing Software
 
 | Name                                | Language                                            | Contribute                                                 | License                                                               | Additional Info                                        |
