@@ -240,6 +240,7 @@ Before you start, please read our [contributor guidelines](CONTRIBUTING.md)!
 #### [Server](applications.md#server)
 
 - [Ad-blocking](applications.md#ad-blocking)
+- [Backup](applications.md#backup)
 - [Business Suite](applications.md#business-suite)
 - [Calendar](applications.md#calendar)
 - [Internet Traffic Cache](applications.md#internet-traffic-cache)
