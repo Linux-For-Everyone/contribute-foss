@@ -208,6 +208,7 @@ Before you start, please read our [contributor guidelines](CONTRIBUTING.md)!
 
 #### Other
 
+- [Haiku](https://www.haiku-os.org/community/)
 - [ReactOS](https://www.reactos.org/participation)
 
 ### Desktop Environments
