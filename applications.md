@@ -125,6 +125,12 @@
 | [AdGuard Home](https://adguard.com/en/adguard-home/overview.html) | Go/JavaScript/Shell                  | [start here](https://github.com/AdguardTeam/AdGuardHome) | [GPLv3](https://github.com/AdguardTeam/AdGuardHome/blob/master/LICENSE.txt) | [Discuss](https://adguard.com/en/discuss.html)                                             |
 | [Pi-hole](https://pi-hole.net)                                    | Shell/Python/PHP/CSS/Roff/Dockerfile | [start here](https://github.com/pi-hole/pi-hole)         | [EUPL](https://github.com/pi-hole/pi-hole/blob/master/LICENSE)              | [Donations welcome](https://pi-hole.net/donate), [Patreon](https://www.patreon.com/pihole) |
 
+### Backup
+
+| Name                                    | Language                             | Contribute                                           | License                                                                    | Additional Info                                                                            |
+| --------------------------------------- | ------------------------------------ | ---------------------------------------------------- | -------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------ |
+| [Duplicati](https://www.duplicati.com)  | C#/JavaScript/HTML/Shell/CSS/Python  | [start here](https://github.com/duplicati/duplicati) | [LGPLv2.1](https://github.com/duplicati/duplicati/blob/master/LICENSE.txt) | [Docker Image](https://hub.docker.com/r/duplicati/duplicati)                               |
+
 ### Business Suite
 
 | Name                         | Language                              | Contribute                                 | License                                                    | Additional Info                                                                           |
