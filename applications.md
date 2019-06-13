@@ -66,6 +66,12 @@
 | -------------------------------------------------- | ---------------------------------------------------- | --------------------------------------------------------- | -------------------------------------------------------------------------- | ------------------------------------------ |
 | [Telegram](https://telegram.org/)                  | C++/Python/Objective-C++/Shell/Batchfile/Objective-C | [start here](https://github.com/telegramdesktop/tdesktop) | [GPLv3](https://github.com/telegramdesktop/tdesktop/blob/dev/LICENSE)      | [Telegram Apps](https://telegram.org/apps) |
 
+### Media Player
+
+| Name                                               | Language                                            | Contribute                                       | License                                                                    | Additional Info                                                                                         |
+| -------------------------------------------------- | --------------------------------------------------- | ------------------------------------------------ | -------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------- |
+| [Kodi](https://kodi.tv/)                           | C++/C/JavaScript/CMake/Python/Objective-C++         | [start here](https://kodi.tv/get-involved)       | [GPLv2](https://github.com/xbmc/xbmc/blob/master/LICENSE.md)               | [Code Repository](https://github.com/xbmc/xbmc), [Donations Welcome](https://kodi.tv/contribute/donate) |
+
 ### Medical Imaging
 
 | Name                                               | Language                                            | Contribute                                       | License                                                                    | Additional Info    |
