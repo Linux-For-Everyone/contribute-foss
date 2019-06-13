@@ -232,6 +232,7 @@ Before you start, please read our [contributor guidelines](CONTRIBUTING.md)!
 - [GPU Drivers](applications.md#gpu-drivers)
 - [GPU Utilities](applications.md#gpu-utilities)
 - [Instant Messaging](applications.md#instant-messaging)
+- [Media Player](applications.md#media-player)
 - [Medical Imaging](applications.md#medical-imaging)
 - [Office Suite](applications.md#office-suite)
 - [Science and Mathematics](applications.md#science-and-mathematics)
