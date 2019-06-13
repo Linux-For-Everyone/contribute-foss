@@ -22,6 +22,7 @@
     - [Applications](#applications)
       - [Desktop](#desktop)
       - [Server](#server)
+    - [Programming Languages](#programming-languages)
     - [Other Projects](#other-projects)
       - [Common Voice](#common-voice)
   - [Other Links](#other-links)
@@ -249,6 +250,10 @@ Before you start, please read our [contributor guidelines](CONTRIBUTING.md)!
 - [Password Manger](applications.md#password-manager)
 - [Productivity Suite](applications.md#productivity-suite)
 - [Software Development Suite](applications.md#software-development-suite)
+
+### Programming Languages
+
+- [Rust](https://prev.rust-lang.org/en-US/contribute.html)
 
 ### Other Projects
 
