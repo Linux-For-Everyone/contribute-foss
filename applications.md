@@ -120,9 +120,10 @@
 
 ### Ad-blocking
 
-| Name                           | Language                             | Contribute                                       | License                                                        | Additional Info                                                                            |
-| ------------------------------ | ------------------------------------ | ------------------------------------------------ | -------------------------------------------------------------- | ------------------------------------------------------------------------------------------ |
-| [Pi-hole](https://pi-hole.net) | Shell/Python/PHP/CSS/Roff/Dockerfile | [start here](https://github.com/pi-hole/pi-hole) | [EUPL](https://github.com/pi-hole/pi-hole/blob/master/LICENSE) | [Donations welcome](https://pi-hole.net/donate), [Patreon](https://www.patreon.com/pihole) |
+| Name                                                              | Language                             | Contribute                                               | License                                                                     | Additional Info                                                                            |
+| ----------------------------------------------------------------- | ------------------------------------ | -------------------------------------------------------- | --------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------ |
+| [AdGuard Home](https://adguard.com/en/adguard-home/overview.html) | Go/JavaScript/Shell                  | [start here](https://github.com/AdguardTeam/AdGuardHome) | [GPLv3](https://github.com/AdguardTeam/AdGuardHome/blob/master/LICENSE.txt) | [Discuss](https://adguard.com/en/discuss.html)                                             |
+| [Pi-hole](https://pi-hole.net)                                    | Shell/Python/PHP/CSS/Roff/Dockerfile | [start here](https://github.com/pi-hole/pi-hole)         | [EUPL](https://github.com/pi-hole/pi-hole/blob/master/LICENSE)              | [Donations welcome](https://pi-hole.net/donate), [Patreon](https://www.patreon.com/pihole) |
 
 ### Business Suite
 
