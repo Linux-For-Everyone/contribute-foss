@@ -24,6 +24,7 @@
 | [DarkTable](https://darktable.org)          | [C/Lua](https://github.com/darktable-org/darktable) | [start here](https://www.darktable.org/development/) | [GPLv3](https://github.com/darktable-org/darktable/blob/master/LICENSE)                              | ADD             |
 | [Inkscape](https://inkscape.org)            | [C++](https://gitlab.com/inkscape/inkscape)         | [start here](https://inkscape.org/contribute/)       | [GPLv2, GPLv3, LGPLv2.1, LGPLv3, MPLv1.1](https://gitlab.com/inkscape/inkscape/tree/master/LICENSES) | ADD             |
 | [Krita](https://krita.org/)                 | [C++](https://github.com/KDE/krita)                 | [start here](en/get-involved/overview)               | [GPLv3](https://github.com/KDE/krita/blob/master/COPYING)                                            | ADD             |
+| [Gimp](https://www.gimp.org/)                 | [C](https://gitlab.gnome.org/GNOME/gimp/)                 | [start here](https://www.gimp.org/develop/)               |  | ADD             | 
 
 ### Development
 
