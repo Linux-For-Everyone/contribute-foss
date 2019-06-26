@@ -177,4 +177,4 @@
 ### VPN
 | Name                               | Language                            | Contribute                                       | License                                                              | Additional Info                                                     |
 | ---------------------------------- | ----------------------------------- | ------------------------------------------------ | -------------------------------------------------------------------- | ------------------------------------------------------------------- |
-| [PiVPN](https://www.pivpn.io) | Shell        | [start here](https://github.com/pivpn/pivpn/blob/master/CONTRIBUTING.md) | [MIT](https://github.com/pivpn/pivpn/blob/master/LICENSE)   | [PiVPN Wiki](https://github.com/pivpn/pivpn/wiki) |
+| [PiVPN](https://www.pivpn.io) | Shell        | [start here](https://github.com/pivpn/pivpn/blob/master/CONTRIBUTING.md) | [MIT](http://github.com/pivpn/pivpn/blob/master/LICENSE)   | [PiVPN Wiki](https://github.com/pivpn/pivpn/wiki) |
