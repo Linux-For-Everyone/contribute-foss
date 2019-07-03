@@ -215,6 +215,7 @@ Before you start, please read our [contributor guidelines](CONTRIBUTING.md)!
 ### Desktop Environments
 
 - [Budgie](https://github.com/solus-project/budgie-desktop)
+- [Cinnamon](https://github.com/linuxmint/cinnamon)
 - [GNOME](https://www.gnome.org/get-involved/)
 - [KDE](https://community.kde.org/Get_Involved)
 - [LXQt](https://github.com/lxqt/lxqt/blob/master/CONTRIBUTING.md)
