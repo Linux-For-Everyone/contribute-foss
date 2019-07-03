@@ -193,6 +193,7 @@ Before you start, please read our [contributor guidelines](CONTRIBUTING.md)!
 - [OpenMediaVault](https://openmediavault.readthedocs.io/en/latest/development/contribute.html)
 - [openSUSE](https://en.opensuse.org/Portal:How_to_participate)
 - [Pop!_OS](https://system76.com/pop/community)
+- [Proxmox Virtualization](https://www.proxmox.com/en/proxmox-ve/get-involved)
 - [Solus](https://getsol.us/articles/contributing/getting-involved/en/)
 - [Ubuntu](https://wiki.ubuntu.com/ContributeToUbuntu)
 - [Ubuntu Budgie](https://discourse.ubuntubudgie.org/c/Get-Involved?status=open)
