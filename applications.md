@@ -175,3 +175,8 @@
 | Name                               | Language                            | Contribute                                       | License                                                              | Additional Info                                                     |
 | ---------------------------------- | ----------------------------------- | ------------------------------------------------ | -------------------------------------------------------------------- | ------------------------------------------------------------------- |
 | [GitLab](https://about.gitlab.com) | Ruby/JavaScript/HTML/Vue/CSS        | [start here](https://about.gitlab.com/community) | [MIT](https://gitlab.com/gitlab-org/gitlab-ce/blob/master/LICENSE)   | [GitLab Community Edition](https://gitlab.com/gitlab-org/gitlab-ce) |
+
+### VPN
+| Name                               | Language                            | Contribute                                       | License                                                              | Additional Info                                                     |
+| ---------------------------------- | ----------------------------------- | ------------------------------------------------ | -------------------------------------------------------------------- | ------------------------------------------------------------------- |
+| [PiVPN](https://www.pivpn.io) | Shell        | [start here](https://github.com/pivpn/pivpn/blob/master/CONTRIBUTING.md) | [MIT](http://github.com/pivpn/pivpn/blob/master/LICENSE)   | [PiVPN Wiki](https://github.com/pivpn/pivpn/wiki) |
