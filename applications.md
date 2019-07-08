@@ -25,6 +25,7 @@
 | [Inkscape](https://inkscape.org)            | [C++](https://gitlab.com/inkscape/inkscape)         | [start here](https://inkscape.org/contribute/)       | [GPLv2, GPLv3, LGPLv2.1, LGPLv3, MPLv1.1](https://gitlab.com/inkscape/inkscape/tree/master/LICENSES) | ADD             |
 | [Krita](https://krita.org/)                 | [C++](https://github.com/KDE/krita)                 | [start here](en/get-involved/overview)               | [GPLv3](https://github.com/KDE/krita/blob/master/COPYING)                                            | ADD             |
 | [Gimp](https://www.gimp.org/)                 | [C](https://gitlab.gnome.org/GNOME/gimp/)                 | [start here](https://www.gimp.org/develop/)               |  | ADD             | 
+| [DigiKam](https://digikam.org/)                 | [C++/Qt](https://bugs.kde.org/component-report.cgi?product=digikam)                 | [start here](https://www.digikam.org/contribute/)               |                                    | ADD             |
 
 ### Development
 
@@ -174,3 +175,8 @@
 | Name                               | Language                            | Contribute                                       | License                                                              | Additional Info                                                     |
 | ---------------------------------- | ----------------------------------- | ------------------------------------------------ | -------------------------------------------------------------------- | ------------------------------------------------------------------- |
 | [GitLab](https://about.gitlab.com) | Ruby/JavaScript/HTML/Vue/CSS        | [start here](https://about.gitlab.com/community) | [MIT](https://gitlab.com/gitlab-org/gitlab-ce/blob/master/LICENSE)   | [GitLab Community Edition](https://gitlab.com/gitlab-org/gitlab-ce) |
+
+### VPN
+| Name                               | Language                            | Contribute                                       | License                                                              | Additional Info                                                     |
+| ---------------------------------- | ----------------------------------- | ------------------------------------------------ | -------------------------------------------------------------------- | ------------------------------------------------------------------- |
+| [PiVPN](https://www.pivpn.io) | Shell        | [start here](https://github.com/pivpn/pivpn/blob/master/CONTRIBUTING.md) | [MIT](http://github.com/pivpn/pivpn/blob/master/LICENSE)   | [PiVPN Wiki](https://github.com/pivpn/pivpn/wiki) |
