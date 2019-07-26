@@ -19,6 +19,7 @@
       - [BSD](#BSD)
       - [Other](#Other)
     - [Desktop Environments](#Desktop-Environments)
+    - [Display Servers](#Display-Servers)
     - [Applications](#Applications)
       - [Desktop](#Desktop)
       - [Server](#Server)
@@ -222,6 +223,11 @@ Before you start, please read our [contributor guidelines](CONTRIBUTING.md)!
 - [KDE](https://community.kde.org/Get_Involved)
 - [LXQt](https://github.com/lxqt/lxqt/blob/master/CONTRIBUTING.md)
 - [Xfce](https://www.xfce.org/getinvolved)
+
+### Display Servers
+
+- [Wayland](https://wayland.freedesktop.org/)
+- [X.Org](https://www.x.org/wiki/)
 
 ### [Applications](applications.md#applications)
 
