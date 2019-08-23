@@ -179,6 +179,9 @@ Before you start, please read our [contributor guidelines](CONTRIBUTING.md)!
 
 - [Alpine Linux](https://wiki.alpinelinux.org/wiki/Alpine_Linux:Contribute)
 - [Arch](https://wiki.archlinux.org/index.php/getting_involved)
+- [ArchLabs](https://www.patreon.com/archlabslinux)
+- [ArcoLinux](https://arcolinux.info/donation/)
+- [CentOS](https://wiki.centos.org/Contribute)
 - [Debian](https://www.debian.org/intro/help)
 - [elementary OS](https://elementary.io/get-involved#support)
 - Fedora Project
@@ -186,6 +189,7 @@ Before you start, please read our [contributor guidelines](CONTRIBUTING.md)!
   - [Join Fedora](https://fedoraproject.org/wiki/Join)
   - [Contributing to Fedora](https://ask.fedoraproject.org/c/community/contributing-to-fedora) on [Ask Fedora](https://ask.fedoraproject.org/)
 - [Gentoo](https://wiki.gentoo.org/wiki/Contributing_to_Gentoo)
+- [Kali](https://docs.kali.org/contribute)
 - [Linux Mint](https://linuxmint.com/getinvolved.php)
 - [Lubuntu](https://lubuntu.me/links/)
 - [Mageia](https://www.mageia.org/contribute/)
@@ -193,9 +197,12 @@ Before you start, please read our [contributor guidelines](CONTRIBUTING.md)!
 - [MX Linux](https://mxlinux.org/donate/)
 - [OpenMediaVault](https://openmediavault.readthedocs.io/en/latest/development/contribute.html)
 - [openSUSE](https://en.opensuse.org/Portal:How_to_participate)
+- [PCLinuxOS](https://www.pclinuxos.com/donations/)
 - [Pop!_OS](https://system76.com/pop/community)
 - [Proxmox Virtualization](https://www.proxmox.com/en/proxmox-ve/get-involved)
+- [Slackware](https://docs.slackware.com/slackware:community)
 - [Solus](https://getsol.us/articles/contributing/getting-involved/en/)
+- [Tails](https://tails.boum.org/donate)
 - [Ubuntu](https://wiki.ubuntu.com/ContributeToUbuntu)
 - [Ubuntu Budgie](https://discourse.ubuntubudgie.org/c/Get-Involved?status=open)
 - [Ubuntu Mate](https://ubuntu-mate.org/community/)
@@ -208,6 +215,7 @@ Before you start, please read our [contributor guidelines](CONTRIBUTING.md)!
 - [GhostBSD](https://ghostbsd.org/contribute)
 - [OpenBSD](https://www.openbsd.org/faq/faq1.html#Support)
 - [OPNsense](https://docs.opnsense.org/contribute.html)
+- [pfSense](https://www.pfsense.org/get-involved/)
 
 #### Other
 
@@ -222,6 +230,7 @@ Before you start, please read our [contributor guidelines](CONTRIBUTING.md)!
 - [GNOME](https://www.gnome.org/get-involved/)
 - [KDE](https://community.kde.org/Get_Involved)
 - [LXQt](https://github.com/lxqt/lxqt/blob/master/CONTRIBUTING.md)
+- [MATE](https://mate-desktop.org/donate/)
 - [Xfce](https://www.xfce.org/getinvolved)
 
 ### Display Servers
