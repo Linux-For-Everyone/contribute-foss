@@ -49,6 +49,12 @@
 | ---------------------------------------- | ------------------------------------------- | --------------------------------------------------------------------------------------------------- | ------------------------------------------- | ------------------------------------------ |
 | [Godot Engine](https://godotengine.org/) | [C++](https://github.com/godotengine/godot) | [start here](https://docs.godotengine.org/en/latest/community/contributing/ways_to_contribute.html) | [MIT](https://github.com/godotengine/godot) | Also documentation, translation, donations |
 
+### Gaming
+
+| Name                          | Language | Contribute                              | License                                                       | Additional Info |
+| ----------------------------- | -------- | --------------------------------------- | ------------------------------------------------------------- | --------------- |
+| [Lutris](https://lutris.net/) | Python   | [start here](https://lutris.net/donate) | [GPLv3](https://github.com/lutris/lutris/blob/master/LICENSE) |                 |
+
 ### GPU Drivers
 
 | Name                                                | Language                                             | Contribute                                           | License | Additional Info |

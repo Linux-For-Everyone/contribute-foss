@@ -247,6 +247,7 @@ Before you start, please read our [contributor guidelines](CONTRIBUTING.md)!
 - [Development](applications.md#development)
 - [Disk Cleaner](applications.md#disk-cleaner)
 - [Game Development](applications.md#game-development)
+- [Gaming](applications.md#gaming)
 - [GPU Drivers](applications.md#gpu-drivers)
 - [GPU Utilities](applications.md#gpu-utilities)
 - [Instant Messaging](applications.md#instant-messaging)
