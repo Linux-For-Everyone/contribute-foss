@@ -181,6 +181,7 @@ Before you start, please read our [contributor guidelines](CONTRIBUTING.md)!
 - [Arch](https://wiki.archlinux.org/index.php/getting_involved)
 - [ArchLabs](https://www.patreon.com/archlabslinux)
 - [ArcoLinux](https://arcolinux.info/donation/)
+- [AsteroidOS](https://asteroidos.org/community/)
 - [CentOS](https://wiki.centos.org/Contribute)
 - [Debian](https://www.debian.org/intro/help)
 - [elementary OS](https://elementary.io/get-involved#support)
