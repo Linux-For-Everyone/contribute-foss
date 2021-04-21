@@ -8,6 +8,7 @@
     - [Marketing And Advocacy](#Marketing-And-Advocacy)
     - [Testing](#Testing)
     - [Filing Bug Reports](#Filing-Bug-Reports)
+    - [Bug Triage & Quality Assurance](#Bug Triage & Quality Assurance)
     - [Documentation](#Documentation)
     - [Community Questions & Support](#Community-Questions--Support)
     - [Translations](#Translations)
@@ -112,6 +113,10 @@ Unfortunately it's rarely a user-friendly experience. They all have different pr
 By now you're probably realizing they all operate differently with regards to bug reporting. If you're sure you've spotted a nasty bug and want to report it but have no clue what to do or where to go, you can always reach out to the teams directly via their contact pages, social media or IRC channels.
 
 Believe me, they'll appreciate the effort.
+
+### Bug Triage & Quality Assurance
+
+When bugs are reported, someone needs to evaluate whether the bug is reproducible or has already been fixed, or whether its a bug in the software or a bug in another software or the user's system, or whether its a bug or an intended behaviour, or many other things. This is called bug triage and it involves being in the middle between users and developers and gathering as much useful information from the bug reporter as possible in order to make it easier for developers to fix the problem. This may also involve categorizing bugs, running backtraces, running bibisects to track down which commitcaused the bug, etc.
 
 ### Documentation
 
