@@ -19,14 +19,14 @@
 
 | Name                                        | Language                                                            | Contribute                                           | License                                                                                              | Additional Info |
 | ------------------------------------------- | ------------------------------------------------------------------- | ---------------------------------------------------- | ---------------------------------------------------------------------------------------------------- | --------------- |
-| [AkiraUX](https://github.com/akiraux/Akira) | [Vala](https://github.com/akiraux/Akira)                            | [start here](https://github.com/akiraux/Akira)       | [GPLv3](https://github.com/akiraux/Akira/blob/master/COPYING)                                        | ADD             |
-| [Blender](https://www.blender.org)          | [C/C++/Python](https://git.blender.org/gitweb/)                     | [start here](https://www.blender.org/get-involved/)  | [GPLv3](https://www.blender.org/about/license/)                                                      | ADD             |
-| [DarkTable](https://darktable.org)          | [C/Lua](https://github.com/darktable-org/darktable)                 | [start here](https://www.darktable.org/development/) | [GPLv3](https://github.com/darktable-org/darktable/blob/master/LICENSE)                              | ADD             |
-| [Inkscape](https://inkscape.org)            | [C++](https://gitlab.com/inkscape/inkscape)                         | [start here](https://inkscape.org/contribute/)       | [GPLv2, GPLv3, LGPLv2.1, LGPLv3, MPLv1.1](https://gitlab.com/inkscape/inkscape/tree/master/LICENSES) | ADD             |
-| [Krita](https://krita.org/)                 | [C++](https://github.com/KDE/krita)                                 | [start here](en/get-involved/overview)               | [GPLv3](https://github.com/KDE/krita/blob/master/COPYING)                                            | ADD             |
-| [GIMP](https://www.gimp.org/)               | [C](https://gitlab.gnome.org/GNOME/gimp/)                           | [start here](https://www.gimp.org/develop/)          | [GPLv3](https://www.gimp.org/about/COPYING)                                                          | ADD             | 
+| [AkiraUX](https://github.com/akiraux/Akira) | [Vala](https://github.com/akiraux/Akira)                            | [start here](https://github.com/akiraux/Akira)       | [GPLv3](https://github.com/akiraux/Akira/blob/master/COPYING)                                        |              |
+| [Blender](https://www.blender.org)          | [C/C++/Python](https://git.blender.org/gitweb/)                     | [start here](https://www.blender.org/get-involved/)  | [GPLv3](https://www.blender.org/about/license/)                                                      |              |
+| [DarkTable](https://darktable.org)          | [C/Lua](https://github.com/darktable-org/darktable)                 | [start here](https://www.darktable.org/development/) | [GPLv3](https://github.com/darktable-org/darktable/blob/master/LICENSE)                              |              |
+| [Inkscape](https://inkscape.org)            | [C++](https://gitlab.com/inkscape/inkscape)                         | [start here](https://inkscape.org/contribute/)       | [GPLv2, GPLv3, LGPLv2.1, LGPLv3, MPLv1.1](https://gitlab.com/inkscape/inkscape/tree/master/LICENSES) |              |
+| [Krita](https://krita.org/)                 | [C++](https://github.com/KDE/krita)                                 | [start here](en/get-involved/overview)               | [GPLv3](https://github.com/KDE/krita/blob/master/COPYING)                                            |              |
+| [GIMP](https://www.gimp.org/)               | [C](https://gitlab.gnome.org/GNOME/gimp/)                           | [start here](https://www.gimp.org/develop/)          | [GPLv3](https://www.gimp.org/about/COPYING)                                                          |              | 
 | [Glimpse](https://getglimpse.app)           | [C/GLib](https://github.com/glimpse-editor/Glimpse)                 | [start here](https://getglimpse.app/contribute)      | [GPLv3](https://github.com/glimpse-editor/Glimpse/blob/main/COPYING)                                 | Fork of GIMP    |
-| [DigiKam](https://digikam.org/)             | [C++/Qt](https://bugs.kde.org/component-report.cgi?product=digikam) | [start here](https://www.digikam.org/contribute/)    |                                                                                                      | ADD             |
+| [DigiKam](https://digikam.org/)             | [C++/Qt](https://bugs.kde.org/component-report.cgi?product=digikam) | [start here](https://www.digikam.org/contribute/)    |                                                                                                      |              |
 
 ### Development
 
@@ -60,14 +60,14 @@
 
 | Name                                                | Language                                             | Contribute                                           | License | Additional Info |
 | --------------------------------------------------- | ---------------------------------------------------- | ---------------------------------------------------- | ------- | --------------- |
-| [FreeDreno](https://github.com/freedreno/freedreno) | [C/Assembly](https://github.com/freedreno/freedreno) | [start here](https://github.com/freedreno/freedreno) |         | ADD             |
+| [FreeDreno](https://github.com/freedreno/freedreno) | [C/Assembly](https://github.com/freedreno/freedreno) | [start here](https://github.com/freedreno/freedreno) |         |              |
 
 ### GPU Utilities
 
 | Name                                                           | Language                                               | Contribute                                                 | License                                                                   | Additional Info |
 | -------------------------------------------------------------- | ------------------------------------------------------ | ---------------------------------------------------------- | ------------------------------------------------------------------------- | --------------- |
-| [radeon-profile](https://github.com/marazmista/radeon-profile) | [C++](https://github.com/marazmista/radeon-profile)    | [start here](https://github.com/marazmista/radeon-profile) | [GPLv2](https://github.com/marazmista/radeon-profile/blob/master/LICENSE) | ADD             |
-| [WattmanGRK](https://github.com/BoukeHaarsma23/WattmanGTK)     | [Python](https://github.com/BoukeHaarsma23/WattmanGTK) | [start here](https://github.com/BoukeHaarsma23/WattmanGTK) | [GPLv2](https://github.com/BoukeHaarsma23/WattmanGTK/blob/master/LICENSE) | ADD             |
+| [radeon-profile](https://github.com/marazmista/radeon-profile) | [C++](https://github.com/marazmista/radeon-profile)    | [start here](https://github.com/marazmista/radeon-profile) | [GPLv2](https://github.com/marazmista/radeon-profile/blob/master/LICENSE) |              |
+| [WattmanGRK](https://github.com/BoukeHaarsma23/WattmanGTK)     | [Python](https://github.com/BoukeHaarsma23/WattmanGTK) | [start here](https://github.com/BoukeHaarsma23/WattmanGTK) | [GPLv2](https://github.com/BoukeHaarsma23/WattmanGTK/blob/master/LICENSE) |              |
 
 ### Instant Messaging
 
