@@ -184,6 +184,12 @@ Before you start, please read our [contributor guidelines](CONTRIBUTING.md)!
 - [AsteroidOS](https://asteroidos.org/community/)
 - [CentOS](https://wiki.centos.org/Contribute)
 - [Debian](https://www.debian.org/intro/help)
+- [Drauger OS](https://draugeros.org/go/contribute/)
+  - [GitHub](https://github.com/drauger-os-development)
+  - Community
+    - [Telegram](https://t.me/draugeros)
+    - [Discord](https://discord.gg/JW8FGrc)
+    - [Forums](https://draugeros.org/go/community/)
 - [elementary OS](https://elementary.io/get-involved#support)
 - Fedora Project
   - [What can I do for Fedora?](https://whatcanidoforfedora.org/)
