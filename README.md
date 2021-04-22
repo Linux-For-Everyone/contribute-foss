@@ -207,8 +207,10 @@ Before you start, please read our [contributor guidelines](CONTRIBUTING.md)!
 - [Mageia](https://www.mageia.org/contribute/)
 - [Manjaro](https://manjaro.github.io/homepage/public/get-involved/)
 - [MX Linux](https://mxlinux.org/donate/)
+- [NixOS](https://nixos.org/guides/contributing.html)
 - [OpenMediaVault](https://openmediavault.readthedocs.io/en/latest/development/contribute.html)
 - [openSUSE](https://en.opensuse.org/Portal:How_to_participate)
+- [Parrot OS](https://www.parrotsec.org/contribute/)
 - [PCLinuxOS](https://www.pclinuxos.com/donations/)
 - [Pop!_OS](https://system76.com/pop/community)
 - [Proxmox Virtualization](https://www.proxmox.com/en/proxmox-ve/get-involved)
@@ -218,6 +220,7 @@ Before you start, please read our [contributor guidelines](CONTRIBUTING.md)!
 - [Ubuntu](https://wiki.ubuntu.com/ContributeToUbuntu)
 - [Ubuntu Budgie](https://discourse.ubuntubudgie.org/c/Get-Involved?status=open)
 - [Ubuntu Mate](https://ubuntu-mate.org/community/)
+- [Void Linux](https://docs.voidlinux.org/contributing/index.html#contributing)
 - [Xubuntu](https://xubuntu.org/contribute/)
 
 #### BSD
@@ -239,16 +242,20 @@ Before you start, please read our [contributor guidelines](CONTRIBUTING.md)!
 
 - [Budgie](https://github.com/solus-project/budgie-desktop)
 - [Cinnamon](https://github.com/linuxmint/cinnamon)
+- [COSMIC](https://github.com/pop-os/cosmic)
 - [GNOME](https://www.gnome.org/get-involved/)
 - [KDE](https://community.kde.org/Get_Involved)
 - [LXQt](https://github.com/lxqt/lxqt/blob/master/CONTRIBUTING.md)
 - [MATE](https://mate-desktop.org/donate/)
+- [Pantheon](https://elementary.io/get-involved#desktop-development)
 - [Xfce](https://www.xfce.org/getinvolved)
 
 ### Display Servers
 
 - [Wayland](https://wayland.freedesktop.org/)
 - [X.Org](https://www.x.org/wiki/)
+- [Mutter](https://gitlab.gnome.org/GNOME/mutter)
+- [Mir](https://github.com/MirServer/mir)
 
 ### [Applications](applications.md#applications)
 
