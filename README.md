@@ -8,7 +8,7 @@
     - [Marketing And Advocacy](#Marketing-And-Advocacy)
     - [Testing](#Testing)
     - [Filing Bug Reports](#Filing-Bug-Reports)
-    - [Bug Triage & Quality Assurance](#Bug Triage & Quality Assurance)
+    - [Bug Triage & Quality Assurance](#bug-triage--quality-assurance)
     - [Documentation](#Documentation)
     - [Community Questions & Support](#Community-Questions--Support)
     - [Translations](#Translations)
