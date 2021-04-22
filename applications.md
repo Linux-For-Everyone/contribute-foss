@@ -92,7 +92,7 @@
 
 | Name                                       | Language     | Contribute                                                       | License                                                                      | Additional Info                                         |
 | ------------------------------------------ | ------------ | ---------------------------------------------------------------- | ---------------------------------------------------------------------------- | ------------------------------------------------------- |
-| [LibreOffice](https://www.libreoffice.org) | C++/XML/Java | [start here](https://www.libreoffice.org/community/get-involved) | [Mozilla Public License v2.0](https://www.libreoffice.org/about-us/licenses) | [Donations welcome](https://www.libreoffice.org/donate) |
+| [LibreOffice](https://www.libreoffice.org) | C++/XML/Java | [start here](https://whatcanidoforlibreoffice.org/#!/progornoprog/advocate) | [Mozilla Public License v2.0](https://www.libreoffice.org/about-us/licenses) | [Donations welcome](https://www.libreoffice.org/donate) |
 
 ### Science and Mathematics
 
