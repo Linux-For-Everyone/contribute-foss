@@ -116,7 +116,13 @@ Believe me, they'll appreciate the effort.
 
 ### Bug Triage & Quality Assurance
 
-When bugs are reported, someone needs to evaluate whether the bug is reproducible or has already been fixed, or whether its a bug in the software or a bug in another software or the user's system, or whether its a bug or an intended behaviour, or many other things. This is called bug triage and it involves being in the middle between users and developers and gathering as much useful information from the bug reporter as possible in order to make it easier for developers to fix the problem. This may also involve categorizing bugs, running backtraces, running bibisects to track down which commitcaused the bug, etc.
+When bugs are reported, someone needs to evaluate whether the bug is reproducible or has already been fixed, or whether its a bug in the software or a bug in another software or the user's system, or whether its a bug or an intended behaviour, or many other things. This is called bug triage and it involves being in the middle between users and developers and gathering as much useful information from the bug reporter as possible in order to make it easier for developers to fix the problem. This may also involve categorizing bugs, running backtraces, running bibisects to track down which commit caused the bug, etc.
+
+An useful template is to ask these three questions:
+
+- „What did you do?” (also known as steps to reproduce / Minimal Working Example),
+- „What did you expect to happen?” (to clarify expectations, so the UX might benefit) and finally
+- „What happened instead?” (observed behaviour).
 
 ### Documentation
 
