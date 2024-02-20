@@ -317,6 +317,10 @@ Contributing to Common Voice is *really* easy. Just visit the project's website 
 
 OpenStreetMap is an open-source map that supports roads, areas, and points. Do *NOT* copy data from Google Maps, Apple Maps, Google Street View, or Apple Look Around, otherwise you may risk getting banned, and in worse cases, sued/arrested. 
 
+Specifically, if you live in a less-developed and/or a small city, village, or settlement, your contrubutions will be very important. 
+
+If you would like to add data, specifically add roads that are missing (small roads, driveways, and most other roads are called Service Roads, apart from large roads and freeways) and foot paths, basketball/baseball/foursquare/tennis courts, swimming pools, and sidewalks. Do not contribute unpaved roads that you are certain about the fact they exist. Also add drinking water fountains/bottle refill stations both indoor and out, restrooms, bicycle parking, phone charging stations, payphones/emergency phones, trash cans, benches and outdoor sitting areas, parking lots, and stores. View the area in MapNik or the OSM default view before adding anything to see if it is not aready added as an area. You may have to physically drive to places to survey them.
+
 ## Other Links
 
 The website [Open Source Guides](https://opensource.guide/) is a collection of resources curated by GitHub about running and contributing to FLOSS projects. The website includes a page about "[How to Contribute to Open Source](https://opensource.guide/how-to-contribute/)," which is another good reference in addition to this project.
