@@ -307,9 +307,19 @@ Before you start, please read our [contributor guidelines](CONTRIBUTING.md)!
 
 #### Common Voice
 
-[Common Voice](https://voice.mozilla.org) is a Mozilla initiative to build a free and open dataset that anyone can use to build speech and speaker recognition applications, such as a voice assistant. These types of applications rely on large datasets, so if you don't contribute to Common Voice, you're unlikely to see good free and open alternatives to Siri and Alexa anytime soon.
+[Common Voice](https://commonvoice.mozilla.org) is a Mozilla initiative to build a free and open dataset that anyone can use to build speech and speaker recognition applications, such as a voice assistant. These types of applications rely on large datasets, so if you don't contribute to Common Voice, you're unlikely to see good free and open alternatives to Siri and Alexa anytime soon.
 
 Contributing to Common Voice is *really* easy. Just visit the project's website and then either speak and donate your voice or listen and validate others' voices. Consider spending an evening with your friends or organizing an event where everybody contributes to the project.
+
+#### OpenStreetMap
+
+[OpenStreetMap](https://openstreetmap.org) is another project that is very easy to contribute to, and is used by many closed source mapping apps as well, such as Bing Maps, Snapchat, Pokemon GO, and Apple Maps (in some areas, other areas use TomTom closed source data, and others use Apple proprietary data). For desktop computers, use the iD web editor by clicking Edit, for iOS use [Go Map](https://apps.apple.com/us/app/go-map/id592990211) to edit, and for Android, use [Every Door](https://f-droid.org/repository/browse/?fdid=info.zverev.ilya.every_door). Make sure to create an account and do not forget to submit changes to the OSM database.
+
+OpenStreetMap is an open-source map that supports roads, areas, and points. Do *NOT* copy data from Google Maps, Apple Maps, Google Street View, or Apple Look Around, otherwise you may risk getting banned, and in worse cases, sued/arrested. 
+
+Specifically, if you live in a less-developed and/or a small city, village, or settlement, your contrubutions will be very important. 
+
+If you would like to add data, specifically add roads that are missing (small roads, driveways, and most other roads are called Service Roads, apart from large roads and freeways) and foot paths, basketball/baseball/foursquare/tennis courts, swimming pools, and sidewalks. Do not contribute unpaved roads that you are certain about the fact they exist. Also add drinking water fountains/bottle refill stations both indoor and out, restrooms, bicycle parking, phone charging stations, payphones/emergency phones, trash cans, benches and outdoor sitting areas, parking lots, and stores. View the area in MapNik or the OSM default view before adding anything to see if it is not aready added as an area. You may have to physically drive to places to survey them.
 
 ## Other Links
 
