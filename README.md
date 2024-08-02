@@ -209,6 +209,7 @@ Before you start, please read our [contributor guidelines](CONTRIBUTING.md)!
 - [Funtoo](https://www.funtoo.org/Welcome)
 - [Gentoo](https://wiki.gentoo.org/wiki/Contributing_to_Gentoo)
 - [Kali](https://docs.kali.org/contribute)
+- [Kubuntu](https://kubuntu.org/contribute-to-kubuntu/)
 - [Linux Mint](https://linuxmint.com/getinvolved.php)
 - [Lubuntu](https://lubuntu.me/links/)
 - [Mageia](https://www.mageia.org/contribute/)
