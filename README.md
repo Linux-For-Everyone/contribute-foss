@@ -225,7 +225,7 @@ Before you start, please read our [contributor guidelines](CONTRIBUTING.md)!
 - [Slackware](https://docs.slackware.com/slackware:community)
 - [Solus](https://getsol.us/articles/contributing/getting-involved/en/)
 - [Tails](https://tails.boum.org/donate)
-- [Ubuntu](https://wiki.ubuntu.com/ContributeToUbuntu)
+- [Ubuntu](https://ubuntu.com/community/contribute)
 - [Ubuntu Budgie](https://discourse.ubuntubudgie.org/c/Get-Involved?status=open)
 - [Ubuntu Mate](https://ubuntu-mate.org/community/)
 - [Void Linux](https://docs.voidlinux.org/contributing/index.html#contributing)
